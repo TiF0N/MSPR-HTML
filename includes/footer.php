@@ -36,8 +36,10 @@
                         Email
                     </li>
                 </ul>
-
             </div>
+        </div>
+        <div class="google_maps">
+            <card></card>
         </div>
     </div>
 </footer>
