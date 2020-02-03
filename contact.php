@@ -2,7 +2,7 @@
 
 <section id="jumbotron">
     <div class="jumbotron">
-        <h1>Nous contacter</h1>
+        <h1>Nous contacter !</h1>
     </div>
 </section>
 <section id="container">
@@ -36,7 +36,7 @@
         <h2>Vous souhaitez plus d'informations ?</h2>
         <p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer feugiat faucibus est, eu
             ullamcorper magna faucibus nec. Sed ac lorem ut augue consequat molestie non vel massa. Quisque ornare
-            fermentum enim. Aliquam sit amet eros tempor, volutpat quam ut, condimentum diam. Ut congue eros quis mi
+            fermentum enim. Aliquam sit amet erossdfg tempor, volutpat quam ut, condimentum diam. Ut congue eros quis mi
             mattis aliquam. Morbi vestibulum tortor accumsan, aliquet nunc a, porttitor nisl. Maecenas viverra purus
             sagittis mauris faucibus, at pellentesque neque sollicitudin.</p>
         <button class="btn btn-primary">
