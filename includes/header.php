@@ -22,29 +22,19 @@
                     </button>
                 </li>
                 <li>
-                    <button class="btn">
-                    <a class="nav-links" href="../concept.php">Concept</a>
-                    </button>
+                    <a class="nav-links" href="concept.php">Concept</a>
                 </li>
                 <li>
-                    <button class="btn">
-                        <a class="nav-links" href="../services.php">Services</a>
-                    </button>
+                    <a class="nav-links" href="services.php">Services</a>
                 </li>
                 <li>
-                    <button class="btn">
-                    <a class="nav-links" href="../zenattitude.php">ZenAttitude</a>
-                    </button>
+                    <a class="nav-links" href="zenattitude.php">ZenAttitude</a>
                 </li>
                 <li>
-                    <button class="btn">
-                    <a class="nav-links" href="../tarifs.php">Tarifs</a>
-                    </button>
+                    <a class="nav-links" href="tarifs.php">Tarifs</a>
                 </li>
                 <li>
-                    <button class="btn">
-                    <a class="nav-links" href="../contact.php">Contact</a>
-                    </button>
+                    <a class="nav-links" href="contact.php">Contact</a>
                 </li>
             </ul>
         </div>
