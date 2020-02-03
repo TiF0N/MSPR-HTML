@@ -1,0 +1,24 @@
+.concept{
+  text-align: center;
+  justify-content: center;
+  margin: 100px;
+}
+
+.bton {
+  display: inline-block;
+  box-shadow: 0 -1px 5px 0 rgba(0, 0, 0, 0.2);
+  padding: 10px 30px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 60px;
+  background-color: rgba(190, 189, 52, 1) ;
+  border-radius: 30px;
+  text-decoration: none;
+  font-family: sans-serif;
+  color: rgba(7, 7, 20, 1);
+  vertical-align: middle;
+  text-align: center;
+  border: 2px solid ;
+  transition: .4s ease background-color;
+}
+

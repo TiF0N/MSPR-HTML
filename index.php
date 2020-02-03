@@ -1,6 +1,6 @@
 <?php include_once 'includes/header.php'; ?>
 
-    <section id="jumbotron">
+    <section id="jumbotron" style="background-image: url(public/images/ile-de-versaille.png);">
         <div class="jumbotron">
             <h1>ZenOffice : Travaillez en vous relaxant !</h1>
         </div>
@@ -16,7 +16,9 @@
                 macaroon tootsie roll sugar plum. Halvah soufflé marshmallow tiramisu lemon drops. Lollipop gummies
                 gummi bears marzipan. Chocolate bar carrot cake cake candy halvah danish.</p>
         </div>
-        <button class="btn btn-primary">Découvrir notre concept</button>
+
+        <button class="bton"  >Découvrir notre concept</button>
+        /a>
     </section>
     <section id="container>">
         <div class="services">

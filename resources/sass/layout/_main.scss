@@ -1,6 +1,6 @@
 
 #jumbotron{
-  background: url("public/images/ile-de-versaille.png") no-repeat center center;
+  background-position: center center;
   background-size: cover;
   display: flex;
   width: 100%;
@@ -13,6 +13,6 @@
   text-align: center;
   justify-content: center;
   font-size: 3em;
-  text-shadow: 0 1px 5px white;
+  color: greenyellow;
 
 }
