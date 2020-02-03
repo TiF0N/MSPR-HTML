@@ -25,6 +25,17 @@
             </ul>
             <div class="col">
                 <p>Ouvert du lundi au vendredi de 7h à 22h</p>
+                <ul>
+                    <li>
+                        Adresse
+                    </li>
+                    <li>
+                        Téléphone
+                    </li>
+                    <li>
+                        Email
+                    </li>
+                </ul>
 
             </div>
         </div>
