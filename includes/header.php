@@ -17,22 +17,34 @@
             <ul>
                 <img class="logo" src="public/images/LOGO.png" href="index.php" alt="logo" >
                 <li>
+                    <button class="btn">
                     <a class="nav-links" href="index.php">Accueil</a>
+                    </button>
                 </li>
                 <li>
+                    <button class="btn">
                     <a class="nav-links" href="../concept.php">Concept</a>
+                    </button>
                 </li>
                 <li>
-                    <a class="nav-links" href="../services.php">Services</a>
+                    <button class="btn">
+                        <a class="nav-links" href="../services.php">Services</a>
+                    </button>
                 </li>
                 <li>
+                    <button class="btn">
                     <a class="nav-links" href="../zenattitude.php">ZenAttitude</a>
+                    </button>
                 </li>
                 <li>
+                    <button class="btn">
                     <a class="nav-links" href="../tarifs.php">Tarifs</a>
+                    </button>
                 </li>
                 <li>
+                    <button class="btn">
                     <a class="nav-links" href="../contact.php">Contact</a>
+                    </button>
                 </li>
             </ul>
         </div>
