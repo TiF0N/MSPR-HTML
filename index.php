@@ -104,7 +104,7 @@
             </div>
         </div>
         <button class="btn btn-primary">
-            Obtenir plus de détail
+            Obtenir plus de détails
         </button>
     </section>
 
