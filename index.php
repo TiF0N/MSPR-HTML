@@ -6,9 +6,10 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>ZenOffice</title>
+    <link rel="stylesheet" href="public/css/app.css">
 </head>
 <body>
-<header>
+<header id="header">
     <nav class="navbar">
         <a class="navbar-brand" href="index.html"><i class="#"></i></a>
         <div class="navbar">
