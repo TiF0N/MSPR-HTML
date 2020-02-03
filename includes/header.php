@@ -15,6 +15,7 @@
         <a class="navbar-brand" href="index.html"><i class="#"></i></a>
         <div class="navbar">
             <ul>
+                <img class="logo" src="public/images/LOGO.png" href="index.php" alt="logo" >
                 <li>
                     <a class="nav-links" href="index.php">Accueil</a>
                 </li>
