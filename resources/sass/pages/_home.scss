@@ -1,6 +1,6 @@
 .concept{
-  text-align: $text-middle;
-  justify-content: $text-justi;
+  text-align: center;
+  justify-content: center;
   margin: 100px;
 }
 
@@ -17,7 +17,7 @@
   font-family: $font-family;
   color: rgba(7, 7, 20, 1);
   vertical-align: middle;
-  text-align: $text-middle;
+  text-align: center;
   border: 2px solid ;
   transition: $transition;
 }
