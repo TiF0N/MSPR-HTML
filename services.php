@@ -5,43 +5,39 @@
             <h1>Nos services</h1>
         </div>
     </section>
-    <section id="container">
-        <div class="concept">
-            <h2>Découvrez nos services</h2>
-            <div class="row">
-                <div class="col">
-                    <img src="public/images/maison.png">
-                </div>
-                <div class="col">
-                    <h2>Notre zone zen</h2>
+    <section id="services" class="section">
+        <div class="container">
+            <h2><strong>Découvrez nos services</strong></h2>
+            <div class="grid-2">
+                <div class="info">
+                    <h2>Zone Zen (SPA)</h2>
                     <p>La Zone Zen proposé exclusivement pour les membre de ZenOffice permettra après de dures et difficiles
                         journées, de prendre du bon temps dans un SPA chauffé à 39°C qui permettra une détente totale et
-                        une augmentation la prodcutivité des freelancers ou salariés. La zone SPA est seulement disponible
+                        une augmentation de la prodcutivité des freelancers ou salariés. La zone SPA est seulement disponible
                         pour les membres de l'offre par mois de chez ZenOffice. Le SPA est situé dans la forêt du parc afin
-                        d'avoir le plus d'intimité possible et donc d'évacuer tout stresse possible dû au travail acharné. ZenOffice
+                        d'avoir le plus d'intimité possible et donc d'évacuer tout stress possible dû au travail acharné.
+                        ZenOffice
                         favorise donc toute possible réussite !</p>
                 </div>
+                <img src="public/images/paysage.png">
             </div>
-            <div class="row">
-                <div class="col">
-                    <h2>Le restaurant Zenitude</h2>
-                    <p>Des repas sains, équilibrés, et nutritif tout en étant bon. C'est ce que propose le
+
+            <div class="grid-2">
+                <img src="public/images/paysage.png">
+                <div class="info">
+                    <h2>Restaurant Zenitude</h2>
+                    <p>Des repas sains, équilibrés et délicieux . C'est ce que propose le
                         restaurant Zenitude de ZenOffice ! Situé dans l'aile Ouest du palais japonais, le
                         restaurant Zénitude vous proposera des plats en corrélation avec cette mangnifique
                         culture qu'est le Japon ! Au programme, sushis, makis, sashimis et autre repas
                         typique préparé de façon à ce que ce dernier soit aussi transportable pour s'adapter
                         aux emplois du temps chargé des entreprises.</p>
                 </div>
-                <div class="col">
-                    <img src="public/images/palais.png">
-                </div>
             </div>
-            <div class="row">
-                <div class="col">
-                    <img src="public/images/cascade.png">
-                </div>
-                <div class="col">
-                    <h2>L'espace relaxation</h2>
+
+            <div class="grid-2">
+                <div class="info">
+                    <h2>Espace de relaxation (massage, sophrologie, yoga)</h2>
                     <p>L'espace de relaxation est une spécificité de ZenOffice ! Diverses prestations
                         sont disponibles pour les membres mensuels de l'espace de coworking nantais de
                         l'île Versailles ! Du Yoga en passant par la sophrologie puis par les massages,
@@ -50,18 +46,24 @@
                         certains évènements, ces activités s'enrichissent de l'environnement
                         japonais...</p>
                 </div>
+                <img src="public/images/decoration.png">
+            </div>
+
+            <div class="button-container">
+                <a class="btn btn-primary" href="services.php">Découvrir nos services</a>
             </div>
         </div>
     </section>
+
     <section id="pre-footer">
         <div class="container">
             <h2>Respirez et détendez-vous !</h2>
             <p>Sortez du batîment et installez-vous près de la magnifique cascade. Maintenant, inspirez puis expirer,
                 inspirez puis expirer, inspi... bref vous connaissais la chanson ! ZenOffice s'appuyera sur les
                 différentes formes de relaxation et autres services afin de favoriser votre épanouissement.</p>
-            <button class="btn-primary">
-                <a href="zenattitude.php">Découvrir la ZenAttitude</a>
-            </button>
+            <div class="button-container">
+                <a class="btn btn-primary" href="zenattitude.php">Découvrir la ZenAttitude</a>
+            </div>
         </div>
     </section>
 <?php include_once 'includes/footer.php'; ?>

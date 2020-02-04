@@ -192,7 +192,13 @@ footer .contact {
 #services img {
   display: block;
   width: 100%;
+  border-radius: 50px;
+}
+
+#zenattitude .grid-3 {
+  padding: 15px;
   border-radius: 10px;
+  margin: 10px;
 }
 
 .btn {

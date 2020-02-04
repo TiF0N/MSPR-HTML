@@ -12,10 +12,10 @@
         <p>Vous avez besoin de calme, de déstresser à cause d'un projet qui vous prend tout votre temps et vous
             empêche d'être productif ? ZenOffice vous accueil dans un cadre rempli d'histoire et vous permet
             d'accéder à la légendaire détente-travail du Japon grâce au monuments, mobiliers, nourritures et enfin
-            environnement végétal grâce au jardin de 5 000m2 pour vous ressourcer. ZenOffice vous met à disposition
-            tous les services nécéessaires tel que les massage, yoag, ... afin d'améliorer votre productivité au
+            son jardin japonais de 5 000m2 pour vous ressourcer. ZenOffice vous met à disposition
+            tous les services nécéessaires tel que les massage, yoga, ... afin d'améliorer votre productivité au
             quotidien et développer le chiffre d'affaire de votre entreprise. Pour satisfaire votre besoin de
-            croissance le palais japonais disponible sur l'île de Nantes en plein coeur de la vilel est bien
+            croissance le palais japonais disponible sur l'île de Nantes en plein coeur de la ville est bien
             évidemment raccordé à la fibre optique.</p>
         <img src="public/images/nature.png">
         <div class="button-container">
@@ -32,9 +32,9 @@
                 <h2>Zone Zen (SPA)</h2>
                 <p>La Zone Zen proposé exclusivement pour les membre de ZenOffice permettra après de dures et difficiles
                     journées, de prendre du bon temps dans un SPA chauffé à 39°C qui permettra une détente totale et
-                    une augmentation la prodcutivité des freelancers ou salariés. La zone SPA est seulement disponible
+                    une augmentation de la prodcutivité des freelancers ou salariés. La zone SPA est seulement disponible
                     pour les membres de l'offre par mois de chez ZenOffice. Le SPA est situé dans la forêt du parc afin
-                    d'avoir le plus d'intimité possible et donc d'évacuer tout stresse possible dû au travail acharné.
+                    d'avoir le plus d'intimité possible et donc d'évacuer tout stress possible dû au travail acharné.
                     ZenOffice
                     favorise donc toute possible réussite !</p>
             </div>
@@ -45,7 +45,7 @@
             <img src="public/images/paysage.png">
             <div class="info">
                 <h2>Restaurant Zenitude</h2>
-                <p>Des repas sains, équilibrés, et nutritif tout en étant bon. C'est ce que propose le
+                <p>Des repas sains, équilibrés et délicieux . C'est ce que propose le
                     restaurant Zenitude de ZenOffice ! Situé dans l'aile Ouest du palais japonais, le
                     restaurant Zénitude vous proposera des plats en corrélation avec cette mangnifique
                     culture qu'est le Japon ! Au programme, sushis, makis, sashimis et autre repas
