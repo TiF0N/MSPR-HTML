@@ -46,6 +46,7 @@
         <div class="col">
             <img src="public/images/logo fb blanc.png">
             <img src="public/images/logo_linkedin.png">
+            <i class="fab fa-facebook"></i>
         </div>
     </div>
 </footer>
