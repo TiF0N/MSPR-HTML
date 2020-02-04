@@ -59,7 +59,7 @@
             <p>Sortez du batîment et installez-vous près de la magnifique cascade. Maintenant, inspirez puis expirer,
                 inspirez puis expirer, inspi... bref vous connaissais la chanson ! ZenOffice s'appuyera sur les
                 différentes formes de relaxation et autres services afin de favoriser votre épanouissement.</p>
-            <button class="btn btn-primary">
+            <button class="btn-primary">
                 Découvrir la ZenAttitude
             </button>
         </div>

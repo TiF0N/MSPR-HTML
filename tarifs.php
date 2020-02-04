@@ -24,7 +24,7 @@
             <p>Vous avez déjà visiter nos pages Facebook et Instagram ? Vous avez aussi essayer de venir nous voir mais
                 personnes n'étais disponible ? Envoyez donc nous un email comportant toutes les informations nécessaires à
                 accomplir votre demande dans les plus brefs délais (et oui nous sommes rapides !)</p>
-            <button class="btn btn-primary">
+            <button class="btn-primary">
                 Nous contacter
             </button>
         </div>

@@ -43,7 +43,7 @@
                 Facebook ou sur notre page Instagram ! Sinon envoyez donc nous un email via le bouton situé sous ce
                 texte comportant toutes les informations nécessaires à accomplir votre demande dans les plus brefs
                 délais (et oui nous sommes rapides !)</p>
-            <button class="btn btn-primary">
+            <button class="btn-primary">
                 Nous contacter
             </button>
         </div>

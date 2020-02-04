@@ -42,7 +42,7 @@
                 détendre et accroitre leur productivité et ainsi développer leur magnifique (oui on est en sûr !)
                 projet. Enfin, l'objectfi est de acsser la routine de travail habtituel afin de sans cesse se renouveler
                 et son s'améliorer.</p>
-            <button class="btn btn-primary">
+            <button class="btn-primary">
                 Découvrir nos services
             </button>
         </div>
