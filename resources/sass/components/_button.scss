@@ -1,15 +1,28 @@
-.btn-primary{
-    display: inline-block;
-    box-shadow: $box-shadow;
-    margin-top: 25px;
-    margin-bottom: 25px;
-    background-color: $secondary ;
-    border-radius: 30px;
-    text-decoration: none;
-    font-family: $font-family;
+.btn {
+  display: inline-block;
+  padding: 10px 25px;
+  box-shadow: $box-shadow;
+  border-radius: 30px;
+  text-decoration: none;
+  font-family: $font-family;
+  border: 2px solid #000;
+  transition: $transition;
+  text-decoration: none !important;
+  opacity: 1;
+
+  &.btn-primary {
+    background-color: $secondary;
     color: rgba(7, 7, 20, 1);
-    vertical-align: middle;
-    justify-content: center;
-    border: 2px solid ;
+  }
+
+  &:hover {
+    opacity: .7;
     transition: $transition;
   }
+}
+
+
+.button-container {
+  text-align: center;
+  margin: 35px 0;
+}

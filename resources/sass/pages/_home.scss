@@ -1,7 +1,29 @@
-.concept {
-  text-align: center;
-  justify-content: center;
+#jumbotron {}
+
+#concept {}
+
+#services {
+
+  .info {
+    padding: 15px;
+
+    h2 {
+
+    }
+
+    p {
+      text-align: left;
+    }
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    border-radius: 10px;
+  }
+
 }
 
+#zenattitude {}
 
-
+#more-details {}
