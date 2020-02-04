@@ -98,6 +98,10 @@ body {
   transition: all ease 0.3s;
 }
 
+footer {
+  text-decoration-type: none;
+}
+
 .concept {
   text-align: center;
   justify-content: center;
@@ -120,5 +124,10 @@ body {
   text-align: center;
   border: 2px solid;
   transition: 0.4s ease background-color;
+}
+
+.btn-primary {
+  border-radius: 30px;
+  background-color: #bebd34;
 }
 /*# sourceMappingURL=app.css.map */

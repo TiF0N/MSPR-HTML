@@ -1,6 +1,6 @@
 <?php include_once 'includes/header.php'; ?>
 
-    <section id="jumbotron">
+    <section id="jumbotron" style="background-image: url(public/images/ile-de-versaille.png);">
         <div class="jumbotron">
             <h1>Notre concept</h1>
         </div>
@@ -8,14 +8,14 @@
     <section id="container">
         <div class="concept">
             <h2>Mixer travail et relaxation</h2>
-            <p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer feugiat faucibus est, eu
-                ullamcorper magna faucibus nec. Sed ac lorem ut augue consequat molestie non vel massa. Quisque ornare
-                fermentum enim. Aliquam sit amet eros tempor, volutpat quam ut, condimentum diam. Ut congue eros quis mi
-                mattis aliquam. Morbi vestibulum tortor accumsan, aliquet nunc a, porttitor nisl. Maecenas viverra purus
-                sagittis mauris faucibus, at pellentesque neque sollicitudin. In volutpat lorem tellus, in pharetra nunc
-                condimentum at. Suspendisse eu blandit mi. Nullam mi ex, convallis eu pulvinar sit amet, vestibulum non
-                nibh. Morbi eget bibendum lorem. Sed et semper nisl. Vivamus dapibus rutrum tellus in laoreet. Praesent
-                ultricies vulputate hendrerit. Proin pulvinar urna non blandit molestie.</p>
+            <p>Vous avez besoin de calme, de déstresser à cause d'un projet qui vous prend tout votre temps et vous
+                empêche d'être productif ? ZenOffice vous accueil dans un cadre rempli d'histoire et vous permet
+                d'accéder à la légendaire détente-travail du Japon grâce au monuments, mobiliers, nourritures et enfin
+                environnement végétal grâce au jardin de 5 000m2 pour vous ressourcer. ZenOffice vous met à disposition
+                tous les services nécéessaires tel que les massage, yoag, ... afin d'améliorer votre productivité au
+                quotidien et développer le chiffre d'affaire de votre entreprise. Pour satisfaire votre besoin de
+                croissance le palais japonais disponible sur l'île de Nantes en plein coeur de la vilel est bien
+                évidemment raccordé à la fibre optique.</p>
         </div>
     </section>
     <section id="container">
@@ -23,25 +23,25 @@
             <div class="row">
                 <div class="col">
                     <img src="">
-                    <p>Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+                    <p>Un coach professionel qui vous accompagne toute la durée de votre présence.</p>
                 </div>
                 <div class="col">
-                    <img src="">
-                    <p>Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+                    <img src="public/images/paysage.png">
+                    <p>Un lieu légendaire fibré dédié au travail.</p>
                 </div>
             </div>
             <img src="">
-            <p>Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+            <p>Des services associés à l'offre principal.</p>
         </div>
     </section>
     <section id="container">
         <div class="pre-footer">
             <h2>Que proposons-nous</h2>
-            <p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer feugiat faucibus est, eu
-                ullamcorper magna faucibus nec. Sed ac lorem ut augue consequat molestie non vel massa. Quisque ornare
-                fermentum enim. Aliquam sit amet eros tempor, volutpat quam ut, condimentum diam. Ut congue eros quis mi
-                mattis aliquam. Morbi vestibulum tortor accumsan, aliquet nunc a, porttitor nisl. Maecenas viverra purus
-                sagittis mauris faucibus, at pellentesque neque sollicitudin.</p>
+            <p>Pour atteindre un idéal de détente tout en mélangeant travail et cool attitude, notre équipe accompagne
+                toutes les entreprises partenaires afin de leur proposer les dernières techniques innovatrices pour se
+                détendre et accroitre leur productivité et ainsi développer leur magnifique (oui on est en sûr !)
+                projet. Enfin, l'objectfi est de acsser la routine de travail habtituel afin de sans cesse se renouveler
+                et son s'améliorer.</p>
             <button class="btn btn-primary">
                 Découvrir nos services
             </button>

@@ -1,6 +1,6 @@
 <?php include_once 'includes/header.php'; ?>
 
-<section id="jumbotron">
+<section id="jumbotron" style="background-image: url(public/images/ile-de-versaille.png);">
     <div class="jumbotron">
         <h1>Nous contacter !</h1>
     </div>
@@ -34,11 +34,9 @@
 <section id="container">
     <div class="pre-footer">
         <h2>Vous souhaitez plus d'informations ?</h2>
-        <p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer feugiat faucibus est, eu
-            ullamcorper magna faucibus nec. Sed ac lorem ut augue consequat molestie non vel massa. Quisque ornare
-            fermentum enim. Aliquam sit amet erossdfg tempor, volutpat quam ut, condimentum diam. Ut congue eros quis mi
-            mattis aliquam. Morbi vestibulum tortor accumsan, aliquet nunc a, porttitor nisl. Maecenas viverra purus
-            sagittis mauris faucibus, at pellentesque neque sollicitudin.</p>
+        <p>Vous avez déjà visiter nos pages Facebook et Instagram ? Vous avez aussi essayer de venir nous voir mais
+            personnes n'étais disponible ? Envoyez donc nous un email comportant toutes les informations nécessaires à
+            accomplir votre demande dans les plus brefs délais (et oui nous sommes rapides !).</p>
         <button class="btn btn-primary">
             Nous contacter
         </button>

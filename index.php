@@ -8,60 +8,58 @@
     <section id="container">
         <div class="concept">
             <h2>Notre concept</h2>
-            <p>Wafer caramels jujubes lemon drops donut pastry liquorice. Wafer pie caramels cake pastry candy canes
-                liquorice tart wafer. Biscuit fruitcake lollipop gummi bears. Dragée sesame snaps topping powder
-                pudding. Chocolate biscuit icing cake carrot cake lollipop caramels chocolate pastry. Bonbon caramels
-                bear claw jujubes powder. Muffin danish topping halvah dessert lemon drops jujubes chocolate soufflé.
-                Dragée powder brownie apple pie gummies chocolate chupa chups. Candy canes brownie gummies gummies
-                macaroon tootsie roll sugar plum. Halvah soufflé marshmallow tiramisu lemon drops. Lollipop gummies
-                gummi bears marzipan. Chocolate bar carrot cake cake candy halvah danish.</p>
+            <p>Vous avez besoin de calme, de déstresser à cause d'un projet qui vous prend tout votre temps et vous
+                empêche d'être productif ? ZenOffice vous accueil dans un cadre rempli d'histoire et vous permet
+                d'accéder à la légendaire détente-travail du Japon grâce au monuments, mobiliers, nourritures et enfin
+                environnement végétal grâce au jardin de 5 000m2 pour vous ressourcer. ZenOffice vous met à disposition
+                tous les services nécéessaires tel que les massage, yoag, ... afin d'améliorer votre productivité au
+                quotidien et développer le chiffre d'affaire de votre entreprise. Pour satisfaire votre besoin de
+                croissance le palais japonais disponible sur l'île de Nantes en plein coeur de la vilel est bien
+                évidemment raccordé à la fibre optique.</p>
         </div>
 
-        <button class="bton"  >Découvrir notre concept</button>
-        /a>
+        <button class="bton" href="concept.php">Découvrir notre concept</button>
     </section>
-    <section id="container>">
-        <div class="services">
+<section id="container>">
+    <div class="services">
+        <div class="col">
+            <div class="row">
+                <h2>Zone Zen (SPA)</h2>
+                <p>La Zone Zen proposé exclusivement pour les membre de ZenOffice permettra après de dures et difficiles
+                    journées, de prendre du bon temps dans un SPA chauffé à 39°C qui permettra une détente totale et
+                    une augmentation la prodcutivité des freelancers ou salariés. La zone SPA est seulement disponible
+                    pour les membres de l'offre par mois de chez ZenOffice. Le SPA est situé dans la forêt du parc afin
+                    d'avoir le plus d'intimité possible et donc d'évacuer tout stresse possible dû au travail acharné. ZenOffice
+                    favorise donc toute possible réussite !</p>
+            </div>
             <div class="col">
                 <div class="row">
-                    <h2>Zone Zen (SPA)</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dolor nisi, consectetur eu eleifend
-                        sit amet, fermentum at ex. Integer non eleifend lorem, vitae placerat ipsum. Pellentesque ornare
-                        lectus quis laoreet pulvinar. Ut pellentesque ornare tellus. Quisque lobortis scelerisque
-                        aliquet. Proin ut sem a nunc finibus vehicula nec sed diam. Proin sed cursus nunc. Vestibulum
-                        lectus velit, faucibus non pulvinar sed, porttitor sit amet enim. Nulla luctus sem eu magna
-                        fermentum fermentum. Vestibulum ut dui non ipsum venenatis condimentum.</p>
+                    <img src="#">
                 </div>
                 <div class="col">
                     <div class="row">
-                        <img src="#">
-                    </div>
-                    <div class="col">
-                        <div class="row">
                             <img src="#">
                         </div>
                         <div class="col">
                             <div class="row">
                                 <h2>Restaurant Zenitude</h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dolor nisi, consectetur
-                                    eu eleifend sit amet, fermentum at ex. Integer non eleifend lorem, vitae placerat
-                                    ipsum. Pellentesque ornare lectus quis laoreet pulvinar. Ut pellentesque ornare
-                                    tellus. Quisque lobortis scelerisque aliquet. Proin ut sem a nunc finibus vehicula
-                                    nec sed diam. Proin sed cursus nunc. Vestibulum lectus velit, faucibus non pulvinar
-                                    sed, porttitor sit amet enim. Nulla luctus sem eu magna fermentum fermentum.
-                                    Vestibulum ut dui non ipsum venenatis condimentum.</p>
+                                <p>Des repas sains, équilibrés, et nutritif tout en étant bon. C'est ce que propose le
+                                    restaurant Zenitude de ZenOffice ! Situé dans l'aile Ouest du palais japonais, le
+                                    restaurant Zénitude vous proposera des plats en corrélation avec cette mangnifique
+                                    culture qu'est le Japon ! Au programme, sushis, makis, sashimis et autre repas
+                                    typique préparé de façon à ce que ce dernier soit aussi transportable pour s'adapter
+                                    aux emplois du temps chargé des entreprises.</p>
                             </div>
                             <div class="col">
                                 <div class="row">
-                                    <h2>Zone Zen (SPA)</h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dolor nisi,
-                                        consectetur eu eleifend sit amet, fermentum at ex. Integer non eleifend lorem,
-                                        vitae placerat ipsum. Pellentesque ornare lectus quis laoreet pulvinar. Ut
-                                        pellentesque ornare tellus. Quisque lobortis scelerisque aliquet. Proin ut sem a
-                                        nunc finibus vehicula nec sed diam. Proin sed cursus nunc. Vestibulum lectus
-                                        velit, faucibus non pulvinar sed, porttitor sit amet enim. Nulla luctus sem eu
-                                        magna fermentum fermentum. Vestibulum ut dui non ipsum venenatis
-                                        condimentum.</p>
+                                    <h2>Espace de relaxation (massage, sophrologie, yoga)</h2>
+                                    <p>L'espace de relaxation est une spécificité de ZenOffice ! Diverses prestations
+                                        sont disponibles pour les membres mensuels de l'espace de coworking nantais de
+                                        l'île Versailles ! Du Yoga en passant par la sophrologie puis par les massages,
+                                        toutes ces activités proposés permettent aux entreprises de se détendres via des
+                                        prestations toutes réalisés par des professionnels du secteurs ! Lors de
+                                        certains évènements, ces activités s'enrichissent de l'environnement
+                                        japonais...</p>
                                 </div>
                                 <div class="col">
                                     <div class="row">
@@ -75,13 +73,12 @@
     <section id="container">
         <div class="zenattitude">
             <h2>La ZenAttitude</h2>
-            <p>Aenean quam odio, pulvinar id ornare eu, tempus sed nulla. Suspendisse molestie vulputate sem, tincidunt
-                posuere erat ullamcorper sit amet. Integer lacinia lorem neque, ac iaculis augue faucibus non. Duis
-                malesuada maximus diam, ac semper tellus. Ut mattis massa dui, in lacinia velit mattis ut. Aenean sed
-                posuere metus. Duis finibus iaculis purus, ac interdum mi rhoncus id. Proin dapibus, neque id dignissim
-                pharetra, arcu nunc convallis tortor, ac auctor enim neque in sem. Sed finibus suscipit elementum. Donec
-                nec massa nibh. Morbi quis eros massa. Integer ut quam vel augue condimentum molestie et eget quam.
-                Maecenas ipsum nisl, feugiat quis eleifend sed, semper id lectus. Nullam fermentum lobortis rhoncus.</p>
+            <p>La ZenAttitude représente les valeurs que ZenOffice souhaite transmettre à tous ses collaborateurs. Cette
+                valeur chère à cet espace de coworking s'établi via des évènements appelés "ZenEvents" dans lesquels
+                l'on approches les valeurs du Japon qui permettent donc un si grande productivité. De plus, ZenOffice
+                évolue avec le monde afin d'apporter les clés de la réussite aux entreprises partenaires par des
+                techniques sophistiqué et donc innovatrices afin de ne pas se laisser noyer par le monde actuel et plus
+                spécialement par le monde de demain !</p>
         </div>
         <div class="col">
             <img src="#">

@@ -42,6 +42,12 @@
             <card></card>
         </div>
     </div>
+    <div class="row">
+        <div class="col">
+            <img src="public/images/logo fb blanc.png">
+            <img src="public/images/logo_linkedin.png">
+        </div>
+    </div>
 </footer>
 </body>
 </html>
