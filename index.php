@@ -68,7 +68,7 @@
                                 </div>
                             </div>
                         </div>
-                        <button class="btn btn-primary">Découvrir nos services</button>
+                        <button class="btn-primary">Découvrir nos services</button>
     </section>
     <section id="container">
         <div class="zenattitude">

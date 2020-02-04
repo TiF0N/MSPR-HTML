@@ -1,4 +1,18 @@
 .btn-primary{
-  border-radius: 30px;
-  background-color: rgba(190, 189, 52, 1);
-}
+    display: inline-block;
+    box-shadow: $box-shadow;
+    padding: 10px 30px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 60px;
+    background-color: $secondary ;
+    border-radius: 30px;
+    text-decoration: none;
+    font-family: $font-family;
+    color: rgba(7, 7, 20, 1);
+    vertical-align: middle;
+    text-align: center;
+    border: 2px solid ;
+    border-radius: 30px;
+    transition: $transition;
+  }

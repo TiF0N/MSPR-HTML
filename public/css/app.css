@@ -219,8 +219,22 @@ footer .contact {
 }
 
 .btn-primary {
-  border-radius: 30px;
+  display: inline-block;
+  box-shadow: 0 -1px 5px 0 rgba(0, 0, 0, 0.2);
+  padding: 10px 30px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 60px;
   background-color: #bebd34;
+  border-radius: 30px;
+  text-decoration: none;
+  font-family: Roboto;
+  color: #070714;
+  vertical-align: middle;
+  text-align: center;
+  border: 2px solid;
+  border-radius: 30px;
+  transition: 0.4s ease all;
 }
 
 /*!
