@@ -1,24 +1,24 @@
 .concept{
-  text-align: center;
-  justify-content: center;
+  text-align: $text-middle;
+  justify-content: $text-justi;
   margin: 100px;
 }
 
 .bton {
   display: inline-block;
-  box-shadow: 0 -1px 5px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: $box-shadow;
   padding: 10px 30px;
   margin-top: 25px;
   margin-bottom: 25px;
   margin-left: 60px;
-  background-color: rgba(190, 189, 52, 1) ;
+  background-color: $secondary ;
   border-radius: 30px;
   text-decoration: none;
-  font-family: sans-serif;
+  font-family: $font-family;
   color: rgba(7, 7, 20, 1);
   vertical-align: middle;
-  text-align: center;
+  text-align: $text-middle;
   border: 2px solid ;
-  transition: .4s ease background-color;
+  transition: $transition;
 }
 

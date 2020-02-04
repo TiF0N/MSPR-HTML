@@ -9,23 +9,23 @@
 body{
   margin: 0;
   padding: 0;
-  font-family: 'Roboto', sans-serif;
+  font-family: $font-family;
 }
 .nav-links{
   display: inline-block;
-  box-shadow: 0 -1px 5px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: $box-shadow;
   padding: 10px 30px;
   margin-top: 25px;
   margin-bottom: 25px;
   margin-left: 60px;
-  background-color: rgba(190, 189, 52, 1);
+  background-color: $secondary;
   border-radius: 5px;
   text-decoration: none;
   font-family: sans-serif;
-  color: rgba(190, 189, 53, 1 );
+  color: $secondary;
   vertical-align: middle;
   border: 2px solid ;
-  transition: .4s ease background-color;
+  transition: $transition;
 }
 .navbar{
   display: flex;
@@ -35,7 +35,7 @@ body{
   width: 100%;
   height: 13vh;
   padding: 0;
-  background-color: rgba(20, 20, 7, 0.30);
+  background-color: $primary;
   backdrop-filter: blur(5px);
   flex-direction: row;
 }
@@ -52,11 +52,11 @@ body{
   display: flex;
   width: 100%;
   justify-content: space-evenly;
-  align-items: center;
+  align-items: $text-middle;
   padding: 0;
   list-style-type: none;
   text-decoration: none;
-  font-family: 'Roboto';
+  font-family: $font-family;
 }
 .navbar-brand{
   position: absolute;
@@ -71,7 +71,7 @@ body{
 
 .navbar a:hover{
   color: white;
-  transition: all ease .3s;
+  transition: $transition;
 }
 
 
