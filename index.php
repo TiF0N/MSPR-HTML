@@ -1,5 +1,5 @@
 <?php include_once 'includes/header.php'; ?>
-
+    <link href="https://fonts.googleapis.com/css?family=Kaushan+Script&display=swap" rel="stylesheet">
     <section id="jumbotron" style="background-image: url(public/images/ile-de-versaille.png);">
         <div class="jumbotron">
             <h1>ZenOffice : Travaillez en vous relaxant !</h1>
@@ -18,7 +18,7 @@
                 évidemment raccordé à la fibre optique.</p>
         </div>
 
-        <button class="bton" href="concept.php">Découvrir notre concept</button>
+        <button class="btn-primary" href="concept.php">Découvrir notre concept</button>
     </section>
 <section id="services>">
     <div class="container">
@@ -89,7 +89,7 @@
         <div class="col">
             <img src="#">
         </div>
-        <button class="btn btn-primary">
+        <button class="btn-primary">
             Les ZenEvents
         </button>
     </section>
@@ -102,7 +102,7 @@
                 <img src="#">
             </div>
         </div>
-        <button class="btn btn-primary">
+        <button class="btn-primary">
             Obtenir plus de détails
         </button>
     </section>

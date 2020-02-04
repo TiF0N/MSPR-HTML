@@ -8,11 +8,11 @@
   align-items: center;
   justify-content: center;
 }
-
 #jumbotron h1{
   text-align: center;
   justify-content: center;
-  font-size:3em;
-  color: greenyellow;
+  font-size:5em;
+  color: $title-color;
+  font-family: $font-title;
 
 }

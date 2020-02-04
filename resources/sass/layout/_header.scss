@@ -17,16 +17,17 @@ body{
   padding: 10px 30px;
   margin-top: 25px;
   margin-bottom: 25px;
-  margin-left: 60px;
-  background-color: $secondary;
-  border-radius: 5px;
+  margin-left: 10px;
+  background-color: $primary;
+  border-radius: 25px;
   text-decoration: none;
-  font-family: sans-serif;
-  color: $secondary;
+  font-family: $font-family;
+  color: green;
   vertical-align: middle;
-  border: 2px solid ;
+  border: 2px solid $primary;
   transition: $transition;
 }
+
 .navbar{
   display: flex;
   position: fixed;
@@ -66,13 +67,15 @@ body{
   font-size: 1.5em;
 }
 .navbar ul li a{
-  color: black;
+  color: $secondary;
+  text-decoration: none;
 }
 
 .navbar a:hover{
-  color: white;
+  color: floralwhite;
   transition: $transition;
 }
+
 
 
 
