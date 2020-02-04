@@ -5,8 +5,8 @@
             <h1>Politique de confidentialité</h1>
         </div>
     </section>
-    <section id="container">
-        <div class="confidentaility">
+    <section id="confidentiality">
+        <div class="container">
             <h2>La confidentialoté de vos données</h2>
             <p>Les informations recueillies sur ce formulaire sont enregistrées dans un fichier informatisé par
                 ZenOffice pour analyse. La base légale du
@@ -32,8 +32,8 @@
                 respectés, vous pouvez adresser une réclamation à la CNIL.</p>
         </div>
     </section>
-    <section id="container">
-        <div class="pre-footer">
+    <section id="pre-footer">
+        <div class="container">
             <h2>Vous souhaitez plus d'informations ?</h2>
             <p>Vous êtes intéresser par ZenOffice ? Alors n'hésitez pas à regarder nos superbes posts sur notre page
                 Facebook ou sur notre page Instagram ! Sinon envoyez donc nous un email via le bouton situé sous ce

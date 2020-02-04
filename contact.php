@@ -31,8 +31,8 @@
                     </button>
                 </form>
 </section>
-<section id="container">
-    <div class="pre-footer">
+<section id="pre-footer">
+    <div class="container">
         <h2>Vous souhaitez plus d'informations ?</h2>
         <p>Vous avez déjà visiter nos pages Facebook et Instagram ? Vous avez aussi essayer de venir nous voir mais
             personnes n'étais disponible ? Envoyez donc nous un email comportant toutes les informations nécessaires à

@@ -5,8 +5,8 @@
             <h1>Notre concept</h1>
         </div>
     </section>
-    <section id="container">
-        <div class="concept">
+    <section id="concept">
+        <div class="container">
             <h2>Mixer travail et relaxation</h2>
             <p>Vous avez besoin de calme, de déstresser à cause d'un projet qui vous prend tout votre temps et vous
                 empêche d'être productif ? ZenOffice vous accueil dans un cadre rempli d'histoire et vous permet
@@ -18,8 +18,8 @@
                 évidemment raccordé à la fibre optique.</p>
         </div>
     </section>
-    <section id="container">
-        <div class="images-concept">
+    <section id="images-concept">
+        <div class="container">
             <div class="row">
                 <div class="col">
                     <img src="">
@@ -34,8 +34,8 @@
             <p>Des services associés à l'offre principal.</p>
         </div>
     </section>
-    <section id="container">
-        <div class="pre-footer">
+    <section id="pre-footer">
+        <div class="container">
             <h2>Que proposons-nous</h2>
             <p>Pour atteindre un idéal de détente tout en mélangeant travail et cool attitude, notre équipe accompagne
                 toutes les entreprises partenaires afin de leur proposer les dernières techniques innovatrices pour se

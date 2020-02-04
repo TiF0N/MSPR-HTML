@@ -5,8 +5,8 @@
             <h1>Nos tarifs</h1>
         </div>
     </section>
-    <section id="container">
-        <div class="tarifs">
+    <section id="tarifs">
+        <div class="container">
             <h2>Nos tarifs</h2>
             <div class="row">
                <div class="col">
@@ -18,8 +18,8 @@
             </div>
         </div>
     </section>
-    <section id="container">
-        <div class="pre-footer">
+    <section id="pre-footer">
+        <div class="container">
             <h2>Vous souhaitez plus d'informations ?</h2>
             <p>Vous avez déjà visiter nos pages Facebook et Instagram ? Vous avez aussi essayer de venir nous voir mais
                 personnes n'étais disponible ? Envoyez donc nous un email comportant toutes les informations nécessaires à

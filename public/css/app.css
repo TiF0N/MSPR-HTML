@@ -237,6 +237,11 @@ footer .contact {
   transition: 0.4s ease all;
 }
 
+p {
+  text-align: center;
+  justify-content: center;
+}
+
 /*!
 * www.KNACSS.com v7.1.2 (january, 30 2019) @author: Alsacreations, Raphael Goetter
 * Licence WTFPL http://www.wtfpl.net/

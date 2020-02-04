@@ -53,8 +53,8 @@
             </div>
         </div>
     </section>
-    <section id="container">
-        <div class="pre-footer">
+    <section id="pre-footer">
+        <div class="container">
             <h2>Respirez et détendez-vous !</h2>
             <p>Sortez du batîment et installez-vous près de la magnifique cascade. Maintenant, inspirez puis expirer,
                 inspirez puis expirer, inspi... bref vous connaissais la chanson ! ZenOffice s'appuyera sur les

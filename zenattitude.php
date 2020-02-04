@@ -5,8 +5,8 @@
             <h1>La ZenAttitude</h1>
         </div>
     </section>
-    <section id="container">
-        <div class="tarifs">
+    <section id="zenattitude">
+        <div class="container">
             <h2>Adoptez la ZenAttitude !</h2>
             <h3>Découvrez les ZenEvents</h3>
             <div class="row">
@@ -36,8 +36,8 @@
             mattis aliquam. Morbi vestibulum tortor accumsan, aliquet nunc a, porttitor nisl. Maecenas viverra purus
             sagittis mauris faucibus, at pellentesque neque sollicitudin.</p>
     </section>
-    <section id="container">
-        <div class="pre-footer">
+    <section id="pro-footer">
+        <div class="container">
             <h2>Intéressé ?</h2>
             <p>Vous êtes intéresser par ZenOffice ? Alors n'hésitez pas à regarder nos superbes posts sur notre page
                 Facebook ou sur notre page Instagram ! Sinon envoyez donc nous un email via le bouton situé sous ce

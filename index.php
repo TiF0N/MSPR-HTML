@@ -20,8 +20,8 @@
 
         <button class="bton" href="concept.php">Découvrir notre concept</button>
     </section>
-<section id="container>">
-    <div class="services">
+<section id="services>">
+    <div class="container">
         <div class="col">
             <div class="row">
                 <h2>Zone Zen (SPA)</h2>
@@ -70,8 +70,8 @@
                         </div>
                         <button class="btn-primary">Découvrir nos services</button>
     </section>
-    <section id="container">
-        <div class="zenattitude">
+    <section id="zenattitude">
+        <div class="container">
             <h2>La ZenAttitude</h2>
             <p>La ZenAttitude représente les valeurs que ZenOffice souhaite transmettre à tous ses collaborateurs. Cette
                 valeur chère à cet espace de coworking s'établi via des évènements appelés "ZenEvents" dans lesquels
