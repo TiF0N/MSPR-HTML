@@ -5,8 +5,8 @@
             <h1>ZenOffice : Travaillez en vous relaxant !</h1>
         </div>
     </section>
-    <section id="container">
-        <div class="concept">
+    <section id="concept">
+        <div class="container">
             <h2>Notre concept</h2>
             <p>Vous avez besoin de calme, de déstresser à cause d'un projet qui vous prend tout votre temps et vous
                 empêche d'être productif ? ZenOffice vous accueil dans un cadre rempli d'histoire et vous permet
@@ -85,6 +85,7 @@
                 techniques sophistiqué et donc innovatrices afin de ne pas se laisser noyer par le monde actuel et plus
                 spécialement par le monde de demain !</p>
         </div>
+        <div class="container">
         <div class="col">
             <img src="public/images/palais_jardin.png">
         </div>
@@ -97,6 +98,7 @@
         <button class="btn btn-primary">
             <a href="zenattitude.php">Les ZenEvents</a>
         </button>
+        </div>
     </section>
     <section id="container">
         <div class="tarifs">

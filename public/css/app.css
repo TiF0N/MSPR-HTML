@@ -1,4 +1,9 @@
 @charset "UTF-8";
+.container {
+  max-width: 1200px;
+  margin: auto;
+}
+
 #jumbotron {
   background-position: center center;
   background-size: cover;
@@ -199,7 +204,6 @@ footer .contact {
 .concept {
   text-align: center;
   justify-content: center;
-  margin: 100px;
 }
 
 .btn-primary {
