@@ -19,7 +19,7 @@
             <img src="public/images/nature.png">
         </div>
         
-        <button class="bton">
+        <button class="btn-primary">
             <a href="concept.php">Découvrir notre concept</a>
         </button>
     </section>
@@ -95,7 +95,7 @@
         <div class="col">
             <img src="public/images/cascade.png">
         </div>
-        <button class="btn btn-primary">
+        <button class="btn-primary">
             <a href="zenattitude.php">Les ZenEvents</a>
         </button>
         </div>
@@ -109,7 +109,7 @@
                 <img src="#">
             </div>
         </div>
-        <button class="btn btn-primary">
+        <button class="btn-primary">
             <a href="tarifs.php">Obtenir plus de détails</a>
         </button>
     </section>
