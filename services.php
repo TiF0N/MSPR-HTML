@@ -10,7 +10,7 @@
             <h2>Découvrez nos services</h2>
             <div class="row">
                 <div class="col">
-                    <img src="">
+                    <img src="public/images/maison.png">
                 </div>
                 <div class="col">
                     <h2>Notre zone zen</h2>
@@ -33,12 +33,12 @@
                         aux emplois du temps chargé des entreprises.</p>
                 </div>
                 <div class="col">
-                    <img src="public/images/">
+                    <img src="public/images/palais.png">
                 </div>
             </div>
             <div class="row">
                 <div class="col">
-                    <img src="">
+                    <img src="public/images/cascade.png">
                 </div>
                 <div class="col">
                     <h2>L'espace relaxation</h2>
@@ -60,7 +60,7 @@
                 inspirez puis expirer, inspi... bref vous connaissais la chanson ! ZenOffice s'appuyera sur les
                 différentes formes de relaxation et autres services afin de favoriser votre épanouissement.</p>
             <button class="btn-primary">
-                Découvrir la ZenAttitude
+                <a href="zenattitude.php">Découvrir la ZenAttitude</a>
             </button>
         </div>
     </section>

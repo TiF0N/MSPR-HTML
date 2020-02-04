@@ -26,11 +26,11 @@
                     <p>Un coach professionel qui vous accompagne toute la durée de votre présence.</p>
                 </div>
                 <div class="col">
-                    <img src="public/images/paysage.png">
+                    <img src="public/images/maison.png">
                     <p>Un lieu légendaire fibré dédié au travail.</p>
                 </div>
             </div>
-            <img src="">
+            <img src="public/images/paysage.png">
             <p>Des services associés à l'offre principal.</p>
         </div>
     </section>
@@ -43,7 +43,7 @@
                 projet. Enfin, l'objectfi est de acsser la routine de travail habtituel afin de sans cesse se renouveler
                 et son s'améliorer.</p>
             <button class="btn-primary">
-                Découvrir nos services
+                <a href="services.php">Découvrir nos services</a>
             </button>
         </div>
     </section>

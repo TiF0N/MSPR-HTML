@@ -16,9 +16,12 @@
                 quotidien et développer le chiffre d'affaire de votre entreprise. Pour satisfaire votre besoin de
                 croissance le palais japonais disponible sur l'île de Nantes en plein coeur de la vilel est bien
                 évidemment raccordé à la fibre optique.</p>
+            <img src="public/images/nature.png">
         </div>
-
-        <button class="btn-primary" href="concept.php">Découvrir notre concept</button>
+        
+        <button class="bton">
+            <a href="concept.php">Découvrir notre concept</a>
+        </button>
     </section>
 <section id="services>">
     <div class="container">
@@ -38,7 +41,7 @@
                 </div>
                 <div class="col">
                     <div class="row">
-                            <img src="#">
+                            <img src="public/images/paysage.png">
                         </div>
                         <div class="col">
                             <div class="row">
@@ -63,12 +66,14 @@
                                 </div>
                                 <div class="col">
                                     <div class="row">
-                                        <img src="#">
+                                        <img src="public/images/decoration.png">
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <button class="btn-primary">Découvrir nos services</button>
+                        <button class="btn-primary">
+                            <a href="services.php">Découvrir nos services</a>
+                        </button>
     </section>
     <section id="zenattitude">
         <div class="container">
@@ -81,16 +86,16 @@
                 spécialement par le monde de demain !</p>
         </div>
         <div class="col">
-            <img src="#">
+            <img src="public/images/palais_jardin.png">
         </div>
         <div class="col">
-            <img src="#">
+            <img src="public/images/pont.png">
         </div>
         <div class="col">
-            <img src="#">
+            <img src="public/images/cascade.png">
         </div>
-        <button class="btn-primary">
-            Les ZenEvents
+        <button class="btn btn-primary">
+            <a href="zenattitude.php">Les ZenEvents</a>
         </button>
     </section>
     <section id="container">
@@ -102,8 +107,8 @@
                 <img src="#">
             </div>
         </div>
-        <button class="btn-primary">
-            Obtenir plus de détails
+        <button class="btn btn-primary">
+            <a href="tarifs.php">Obtenir plus de détails</a>
         </button>
     </section>
 

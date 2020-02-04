@@ -38,7 +38,7 @@
             personnes n'étais disponible ? Envoyez donc nous un email comportant toutes les informations nécessaires à
             accomplir votre demande dans les plus brefs délais (et oui nous sommes rapides !).</p>
         <button class="btn-primary">
-            Nous contacter
+            <a href="contact.php">Nous contacter</a>
         </button>
     </div>
 </section>

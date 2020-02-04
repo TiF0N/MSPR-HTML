@@ -218,7 +218,7 @@ footer .contact {
   transition: 0.4s ease all;
 }
 
-p {
+.container p {
   text-align: center;
   justify-content: center;
 }
