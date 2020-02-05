@@ -8,16 +8,19 @@
 
 <section id="concept" class="section">
     <div class="container">
-        <h2>Notre concept</h2>
-        <p>Vous avez besoin de calme, de déstresser à cause d'un projet qui vous prend tout votre temps et vous
-            empêche d'être productif ? ZenOffice vous accueil dans un cadre rempli d'histoire et vous permet
-            d'accéder à la légendaire détente-travail du Japon grâce au monuments, mobiliers, nourritures et enfin
-            son jardin japonais de 5 000m2 pour vous ressourcer. ZenOffice vous met à disposition
-            tous les services nécéessaires tel que les massage, yoga, ... afin d'améliorer votre productivité au
-            quotidien et développer le chiffre d'affaire de votre entreprise. Pour satisfaire votre besoin de
-            croissance le palais japonais disponible sur l'île de Nantes en plein coeur de la ville est bien
-            évidemment raccordé à la fibre optique.</p>
-        <img src="public/images/nature.png">
+
+        <div class="intro">
+            <h2>Notre concept</h2>
+            <p>Vous avez besoin de calme, de déstresser à cause d'un projet qui vous prend tout votre temps et vous
+                empêche d'être productif ? ZenOffice vous accueil dans un cadre rempli d'histoire et vous permet
+                d'accéder à la légendaire détente-travail du Japon grâce au monuments, mobiliers, nourritures et enfin
+                son jardin japonais de 5 000m2 pour vous ressourcer. ZenOffice vous met à disposition
+                tous les services nécéessaires tel que les massage, yoga, ... afin d'améliorer votre productivité au
+                quotidien et développer le chiffre d'affaire de votre entreprise. Pour satisfaire votre besoin de
+                croissance le palais japonais disponible sur l'île de Nantes en plein coeur de la ville est bien
+                évidemment raccordé à la fibre optique.</p>
+            <img src="public/images/nature.png">
+        </div>
         <div class="button-container">
             <a class="btn btn-primary" href="concept.php">Découvrir notre concept</a>
         </div>

@@ -8,12 +8,10 @@
 
 <section id="contact-form">
     <div class="container">
-
-        <h2>Contactez-nous !</h2>
-        <h4 style="text-align:center">Nous adorons avoir de vos nouvelles !</h4>
-
+            <h2>Contactez-nous !</h2>
+            <h4 style="text-align:center">Nous adorons avoir de vos nouvelles !</h4>
         <form class="form">
-            <div class="grid-2">
+            <div class="grid-2 has-gutter">
                 <div class="styled-input">
                     <input type="text" required/>
                     <label>Nom</label>
