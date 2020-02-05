@@ -1,4 +1,4 @@
-#jumbotron{
+#jumbotron {
   background-position: center center;
   background-size: cover;
   display: flex;
@@ -13,6 +13,7 @@
     /* prevent the highlight from breaking since it is horizontal   */
     white-space: nowrap;
   }
+
   .highlight-word:before {
     content: '';
     background: url(https://cdn2.hubspot.net/hubfs/1951809/text-highlight.png?t=1542708765973) no-repeat center center;
@@ -22,13 +23,14 @@
     display: block;
     position: absolute;
     z-index: -1;
-    transform: translate(-3%,0);
+    transform: translate(-3%, 0);
   }
-}
-#jumbotron h1{
-  text-align: center;
-  justify-content: center;
-  font-size:5em;
-  color: $title-color;
-  font-family: $font-title;
+
+  h1 {
+    text-align: center;
+    justify-content: center;
+    font-size: 5em;
+    color: $title-color;
+    font-family: $font-title;
+  }
 }

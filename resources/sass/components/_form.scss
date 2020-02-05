@@ -1,0 +1,118 @@
+.form {
+  input:focus ~ label, textarea:focus ~ label, input:valid ~ label, textarea:valid ~ label {
+    font-size: 0.75em;
+    color: $secondary;
+    top: -5px;
+    -webkit-transition: all 0.225s ease;
+    transition: all 0.225s ease;
+  }
+
+  .styled-input {
+    width: 100%;
+    margin: 1rem 0;
+    position: relative;
+    border-radius: 4px;
+  }
+
+  @media only screen and (max-width: 768px) {
+    .styled-input {
+      width: 100%;
+    }
+  }
+
+  .styled-input label {
+    color: $secondary;
+    padding: 1.3rem 30px 1rem 30px;
+    position: absolute;
+    top: 10px;
+    left: 0;
+    -webkit-transition: all 0.25s ease;
+    transition: all 0.25s ease;
+    pointer-events: none;
+  }
+
+  .styled-input.wide {
+    width: 650px;
+    max-width: 100%;
+  }
+
+  input,
+  textarea {
+    padding: 30px;
+    border: 0;
+    width: 100%;
+    font-size: 1rem;
+    background-color: #2d2d2d;
+    color: white;
+    border-radius: 4px;
+  }
+
+  input:focus,
+  textarea:focus {
+    outline: 0;
+  }
+
+  input:focus ~ span,
+  textarea:focus ~ span {
+    width: 100%;
+    -webkit-transition: all 0.075s ease;
+    transition: all 0.075s ease;
+  }
+
+  textarea {
+    width: 100%;
+    min-height: 15em;
+  }
+
+  .input-container {
+    width: 650px;
+    max-width: 100%;
+    margin: 20px auto 25px auto;
+  }
+
+  input[type=checkbox] + label {
+    color: #ccc;
+    font-style: italic;
+  }
+
+  input[type=checkbox]:checked + label {
+    color: #f00;
+    font-style: normal;
+  }
+
+  input[type=checkbox] + label {
+    display: block;
+    margin: 0.2em;
+    cursor: pointer;
+    padding: 0.2em;
+  }
+
+  input[type=checkbox] {
+    display: none;
+  }
+
+  input[type=checkbox] + label:before {
+    content: "\2714";
+    border: 0.1em solid #000;
+    border-radius: 0.2em;
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    padding-left: 0.2em;
+    padding-bottom: 0.3em;
+    margin-right: 0.2em;
+    vertical-align: bottom;
+    color: transparent;
+    transition: .2s;
+  }
+
+  input[type=checkbox] + label:active:before {
+    transform: scale(0);
+  }
+
+  input[type=checkbox]:checked + label:before {
+    background-color: MediumSeaGreen;
+    border-color: MediumSeaGreen;
+    color: #fff;
+  }
+}
