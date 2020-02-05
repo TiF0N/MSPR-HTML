@@ -5,32 +5,56 @@
         <h1>Nous contacter !</h1>
     </div>
 </section>
-<section id="container">
-    <div class="form">
-        <h2>Besoins d'informations ? Demandez nous !</h2>
-                <form action="" methode="POST">
+<div class="container">
+    <div class="row">
+        <h2><strong>Contactez-nous !</strong></h2>
+    </div>
+    <div class="row">
+        <h4 style="text-align:center">Nous adorons avoir de vos nouvelles !</h4>
+    </div>
+    <div class="row input-container">
+        <div class="col-md-6 col-sm-12">
+            <div class="styled-input">
+                <input type="text" required/>
+                <label>Nom</label>
+            </div>
+        </div>
+        <div class="col-md-6 col-sm-12">
+            <div class="styled-input" style="float:right;">
+                <input type="text" required/>
+                <label>Prénom</label>
+            </div>
+        </div>
+        <div class="col-xs-12">
+            <div class="styled-input wide">
+                <input type="text" required/>
+                <label>Email</label>
+            </div>
+        </div>
+        <div class="col-xs-12">
+            <div class="styled-input wide">
+                <input type="text" required/>
+                    <label>Numéro de téléphone</label>
+            </div>
+        </div>
+        <div class="col-xs-12">
+            <div class="styled-input wide">
+                <input type="text" required/>
+                <label>Nom de l'entreprise</label>
+            </div>
+        </div>
+        <div class="col-xs-12">
+            <div class="styled-input wide">
+                <textarea required></textarea>
+                <label>Message</label>
+            </div>
+        </div>
+        <div class="col-xs-12">
+            <div class="btn-lrg submit-btn">Envoyer</div>
+        </div>
+    </div>
+</div>
 
-                    <div class="form-group">
-                        <label for="last_name">Nom</label>
-                        <input type="texte" id="last_name" class="form-control">
-                    </div>
-                    <div class="form-group">
-                        <label for="first_name">Prénom</label>
-                        <input type="texte" id="first_name" class="form-control">
-                    </div>
-                    <div class="form-group">
-                        <label for="email">Email</label>
-                        <input type="email" id="email" class="form-control">
-                    </div>
-                    <div class="form-group">
-                        <label for="message">Message</label>
-                        <textarea id="message" class="form-control"></textarea>
-                    </div>
-                    <button class="btn">
-                        Envoyer
-                    </button>
-                </form>
-</section>
 <section id="pre-footer">
     <div class="container">
         <h2>Vous souhaitez plus d'informations ?</h2>
