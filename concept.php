@@ -22,12 +22,12 @@
         <div class="container">
             <div class="grid-2">
 
-                    <img src="public/images/professional.jpg">
+                    <img src="public/images/professional.jpg" alt="Un coach professionnel.">
                     <p>Un coach professionel qui vous accompagne toute la durée de votre présence.</p>
-                    <img src="public/images/maison.png">
+                    <img src="public/images/maison.png" alt="Le lieu de travaille">
                     <p>Un lieu légendaire fibré dédié au travail.</p>
             </div>
-                <img src="public/images/paysage.png">
+                <img src="public/images/paysage.png" alt="Un payasge de l'île de Versailles">
                 <p>Des services associés à l'offre principal.</p>
         </div>
     </section>

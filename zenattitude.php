@@ -11,22 +11,22 @@
             <h3>Découvrez les ZenEvents</h3>
             <div class="grid-2">
                 <div>
-                    <img src="public/images/bamboo.png">
+                    <img src="public/images/bamboo.png" alt="Bambous montrant la pureté.">
                     <p>Découverte de son Ikigaï</p>
                 </div>
                 <div>
-                    <img src="public/images/respiration.jpg">
+                    <img src="public/images/respiration.jpg" alt="Une femme qui fait un exercice de respiration">
                     <p>Relaxation par la respiration</p>
                 </div>
             </div>
 
             <div class="grid-2">
                 <div>
-                    <img src="public/images/palais_jardin.png">
+                    <img src="public/images/palais_jardin.png" alt="Un bâtiment de l'île de Versailles">
                     <p>Séparer vie personnelle et et vie professionnelle</p>
                 </div>
                 <div>
-                    <img src="public/images/jardin.png">
+                    <img src="public/images/jardin.png" alt="Un jardin de l'île de Versailles">
                     <p>Apprendre tout en innovant</p>
                 </div>
             </div>

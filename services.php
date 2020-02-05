@@ -19,11 +19,11 @@
                         ZenOffice
                         favorise donc toute possible réussite !</p>
                 </div>
-                <img src="public/images/paysage.png">
+                <img src="public/images/paysage.png" alt="Un paysage de l'île de Versailles.">
             </div>
 
             <div class="grid-2">
-                <img src="public/images/restaurant.jpg">
+                <img src="public/images/restaurant.jpg" alt="Un restaurant japonais.">
                 <div class="info">
                     <h2>Restaurant Zenitude</h2>
                     <p>Des repas sains, équilibrés et délicieux . C'est ce que propose le
@@ -46,7 +46,7 @@
                         certains évènements, ces activités s'enrichissent de l'environnement
                         japonais...</p>
                 </div>
-                <img src="public/images/yoga.jpg">
+                <img src="public/images/yoga.jpg" alt="Une femme faisant du yoga.">
             </div>
 
             <div class="button-container">
