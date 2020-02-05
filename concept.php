@@ -22,17 +22,13 @@
         <div class="container">
             <div class="grid-2">
 
-<<<<<<< Updated upstream
-                    <img src="public/images/professional.jpg" alt="Un coach professionnel.">
-=======
-                    <img src="public/images/coach.jpg">
->>>>>>> Stashed changes
-                    <p>Un coach professionel qui vous accompagne toute la durée de votre présence.</p>
-                    <img src="public/images/maison.png" alt="Le lieu de travaille">
-                    <p>Un lieu légendaire fibré dédié au travail.</p>
+                <img src="public/images/coach.jpg" alt="Un coach professionnel.">
+                <p>Un coach professionel qui vous accompagne toute la durée de votre présence.</p>
+                <img src="public/images/maison.png" alt="Le lieu de travail">
+                <p>Un lieu légendaire fibré dédié au travail.</p>
             </div>
-                <img src="public/images/paysage.png" alt="Un payasge de l'île de Versailles">
-                <p>Des services associés à l'offre principal.</p>
+            <img src="public/images/paysage.png" alt="Un payasge de l'île de Versailles">
+            <p>Des services associés à l'offre principal.</p>
         </div>
     </section>
     <section id="pre-footer">

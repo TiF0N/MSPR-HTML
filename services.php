@@ -19,11 +19,7 @@
                         ZenOffice
                         favorise donc toute possible réussite !</p>
                 </div>
-<<<<<<< Updated upstream
-                <img src="public/images/paysage.png" alt="Un paysage de l'île de Versailles.">
-=======
-                <img src="public/images/spa.jpg" >
->>>>>>> Stashed changes
+                    <img src="public/images/spa.jpg" >
             </div>
 
             <div class="grid-2">
