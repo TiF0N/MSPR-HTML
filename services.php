@@ -14,7 +14,7 @@
                     <p>La Zone Zen proposé exclusivement pour les membre de ZenOffice permettra après de dures et difficiles
                         journées, de prendre du bon temps dans un SPA chauffé à 39°C qui permettra une détente totale et
                         une augmentation de la prodcutivité des freelancers ou salariés. La zone SPA est seulement disponible
-                        pour les membres de l'offre par mois de chez ZenOffice. Le SPA est situé dans la forêt du parc afin
+                        pour les membres de l'offre mensuel de chez ZenOffice. Le SPA est situé dans la forêt du parc afin
                         d'avoir le plus d'intimité possible et donc d'évacuer tout stress possible dû au travail acharné.
                         ZenOffice
                         favorise donc toute possible réussite !</p>
