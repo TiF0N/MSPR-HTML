@@ -33,7 +33,7 @@
     </section>
     <section id="pre-footer">
         <div class="container">
-            <h2>Que proposons-nous</h2>
+            <h2>Que proposons-nous ?</h2>
             <p>Pour atteindre un idéal de détente tout en mélangeant travail et cool attitude, notre équipe accompagne
                 toutes les entreprises partenaires afin de leur proposer les dernières techniques innovatrices pour se
                 détendre et accroitre leur productivité et ainsi développer leur magnifique (oui on est en sûr !)
