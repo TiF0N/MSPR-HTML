@@ -269,10 +269,13 @@ footer .contact {
   padding: 75px 0;
 }
 .section h2 {
-  color: red;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 .section p {
   text-align: center;
+  margin-bottom: 40px;
 }
 
 .form input:focus ~ label, .form textarea:focus ~ label, .form input:valid ~ label, .form textarea:valid ~ label {
