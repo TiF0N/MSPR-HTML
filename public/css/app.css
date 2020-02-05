@@ -226,6 +226,10 @@ footer .contact {
   margin-bottom: 30px;
   margin-top: 30px;
 }
+#zenattitude img {
+  max-width: 400px;
+  border-radius: 500px;
+}
 
 #contact-form {
   padding: 100px 0;
