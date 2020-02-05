@@ -2,7 +2,7 @@
 
 <section id="jumbotron" style="background-image: url(public/images/ile-de-versaille.png);">
     <div class="jumbotron">
-        <h1>Nous contacter !</h1>
+        <h1><span class="highlight-word"> Nous contacter !</span></h1>
     </div>
 </section>
 <div class="container">

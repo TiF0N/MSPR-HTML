@@ -2,7 +2,7 @@
 
 <section id="jumbotron" style="background-image: url(public/images/ile-de-versaille.png);">
     <div class="jumbotron">
-        <h1>ZenOffice : Travaillez en vous relaxant !</h1>
+        <h1><span class="highlight-word"> ZenOffice : Travaillez en vous relaxant !</span></h1>
     </div>
 </section>
 

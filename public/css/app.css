@@ -351,12 +351,29 @@ input[type=checkbox]:checked + label {
   align-items: center;
   justify-content: center;
 }
+#jumbotron .highlight-word {
+  position: relative;
+  z-index: 0;
+  /* prevent the highlight from breaking since it is horizontal   */
+  white-space: nowrap;
+}
+#jumbotron .highlight-word:before {
+  content: "";
+  background: url(https://cdn2.hubspot.net/hubfs/1951809/text-highlight.png?t=1542708765973) no-repeat center center;
+  background-size: 100% auto;
+  width: 108%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  z-index: -1;
+  transform: translate(-3%, 0);
+}
 
 #jumbotron h1 {
   text-align: center;
   justify-content: center;
   font-size: 5em;
-  color: #2b8056;
+  color: #081534;
   font-family: "Kaushan Script", cursive;
 }
 

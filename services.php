@@ -2,7 +2,7 @@
 
     <section id="jumbotron" style="background-image: url(public/images/ile-de-versaille.png);">
         <div class="jumbotron">
-            <h1>Nos services</h1>
+            <h1><span class="highlight-word"> Nos services</span></h1>
         </div>
     </section>
     <section id="services" class="section">

@@ -2,7 +2,7 @@
 
     <section id="jumbotron">
         <div class="jumbotron">
-            <h1>Politique de confidentialité</h1>
+            <h1><span class="highlight-word"> Politique de confidentialité</span></h1>
         </div>
     </section>
     <section id="confidentiality">
