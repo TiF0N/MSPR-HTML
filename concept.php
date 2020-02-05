@@ -27,8 +27,8 @@
                     <img src="public/images/maison.png">
                     <p>Un lieu légendaire fibré dédié au travail.</p>
             </div>
-            <img src="public/images/paysage.png">
-            <p>Des services associés à l'offre principal.</p>
+                <img src="public/images/paysage.png">
+                <p>Des services associés à l'offre principal.</p>
         </div>
     </section>
     <section id="pre-footer">

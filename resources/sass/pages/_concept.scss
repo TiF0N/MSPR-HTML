@@ -6,3 +6,16 @@
     margin-top: 30px;
   }
 }
+#images-concept {
+    .container{
+      img{
+        border-radius: 50px;
+        overflow: hidden;
+        -webkit-border-radius:150px;
+        -moz-border-radius:150px;
+        width:15em;
+        box-shadow: $box-shadow;
+        height:15em;
+      }
+    }
+}
