@@ -257,6 +257,13 @@ footer .contact {
   text-align: center;
 }
 
+#tarifs h2 {
+  text-align: center;
+  justify-content: center;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
 .prices {
   font-family: helvetica, sans-serif;
   font-size: 1rem;
@@ -344,6 +351,13 @@ li:before {
   letter-spacing: 3.5px;
   text-shadow: 1px 1px rgba(20, 20, 7, 0.3);
   color: white;
+}
+
+#pre-footer h2 {
+  text-align: center;
+  justify-content: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 #contact-form {
