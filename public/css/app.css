@@ -194,10 +194,8 @@ footer .contact {
   border-radius: 50px;
 }
 
-#zenattitude .grid-3 {
-  padding: 15px;
-  border-radius: 10px;
-  margin: 10px;
+#zenattitude .grid-3 has-gutter-xl {
+  border-radius: 50px;
 }
 
 #contact-form {

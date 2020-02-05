@@ -83,7 +83,7 @@
             évolue avec le monde afin d'apporter les clés de la réussite aux entreprises partenaires par des
             techniques sophistiqué et donc innovatrices afin de ne pas se laisser noyer par le monde actuel et plus
             spécialement par le monde de demain !</p>
-        <div class="grid-3">
+        <div class="grid-3 has-gutter-xl">
             <img src="public/images/palais_jardin.png">
             <img src="public/images/pont.png">
             <img src="public/images/cascade.png">
