@@ -8,5 +8,19 @@
   img{
     max-width: 400px;
     border-radius: 500px;
+    border-radius: 50px;
+    overflow: hidden;
+    -webkit-border-radius:150px;
+    -moz-border-radius:150px;
+    width:15em;
+    box-shadow: $box-shadow;
+    height:15em;
+    padding: 5px;
+    margin-left: 25%;
+  }
+  p{
+    margin-top: 20px;
+    text-align: center;
   }
 }
+

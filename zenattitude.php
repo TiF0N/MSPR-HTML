@@ -45,9 +45,9 @@
                 Facebook ou sur notre page Instagram ! Sinon envoyez donc nous un email via le bouton situé sous ce
                 texte comportant toutes les informations nécessaires à accomplir votre demande dans les plus brefs
                 délais (et oui nous sommes rapides !)</p>
-            <button class="btn-primary">
-                <a href="contact.php">Nous contacter</a>
-            </button>
+            <div class="button-container">
+                <a class="btn btn-primary" href="contact.php">Nous contacter</a>
+            </div>
         </div>
     </section>
 <?php include_once 'includes/footer.php'; ?>

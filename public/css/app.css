@@ -228,6 +228,7 @@ footer .contact {
   width: 15em;
   box-shadow: 0 -1px 5px 0 rgba(0, 0, 0, 0.2);
   height: 15em;
+  padding: 5px;
 }
 
 #zenattitude h2 {
@@ -239,6 +240,19 @@ footer .contact {
 #zenattitude img {
   max-width: 400px;
   border-radius: 500px;
+  border-radius: 50px;
+  overflow: hidden;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  width: 15em;
+  box-shadow: 0 -1px 5px 0 rgba(0, 0, 0, 0.2);
+  height: 15em;
+  padding: 5px;
+  margin-left: 25%;
+}
+#zenattitude p {
+  margin-top: 20px;
+  text-align: center;
 }
 
 #contact-form {
