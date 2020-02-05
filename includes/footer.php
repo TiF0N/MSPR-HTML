@@ -33,6 +33,7 @@
                     <li><a href="zenattitude.php">ZenAttitude</a></li>
                     <li><a href="tarifs.php">Tarifs</a></li>
                     <li><a href="contact.php">Contact</a></li>
+                    <li><a href="confidentiality.php">Confidentialité</a></li>
                 </ul>
             </div>
 
