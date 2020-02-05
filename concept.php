@@ -14,21 +14,18 @@
                 environnement végétal grâce au jardin de 5 000m2 pour vous ressourcer. ZenOffice vous met à disposition
                 tous les services nécéessaires tel que les massage, yoag, ... afin d'améliorer votre productivité au
                 quotidien et développer le chiffre d'affaire de votre entreprise. Pour satisfaire votre besoin de
-                croissance le palais japonais disponible sur l'île de Nantes en plein coeur de la vilel est bien
+                croissance le palais japonais disponible sur l'île de Nantes en plein coeur de la ville est bien
                 évidemment raccordé à la fibre optique.</p>
         </div>
     </section>
     <section id="images-concept">
         <div class="container">
-            <div class="row">
-                <div class="col">
-                    <img src="">
+            <div class="grid-2">
+
+                    <img src="public/images/professional.jpg">
                     <p>Un coach professionel qui vous accompagne toute la durée de votre présence.</p>
-                </div>
-                <div class="col">
                     <img src="public/images/maison.png">
                     <p>Un lieu légendaire fibré dédié au travail.</p>
-                </div>
             </div>
             <img src="public/images/paysage.png">
             <p>Des services associés à l'offre principal.</p>
