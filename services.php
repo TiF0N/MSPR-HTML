@@ -23,7 +23,7 @@
             </div>
 
             <div class="grid-2">
-                <img src="public/images/paysage.png">
+                <img src="public/images/restaurant.jpg">
                 <div class="info">
                     <h2>Restaurant Zenitude</h2>
                     <p>Des repas sains, équilibrés et délicieux . C'est ce que propose le
@@ -46,7 +46,7 @@
                         certains évènements, ces activités s'enrichissent de l'environnement
                         japonais...</p>
                 </div>
-                <img src="public/images/decoration.png">
+                <img src="public/images/yoga.jpg">
             </div>
 
             <div class="button-container">
