@@ -222,15 +222,31 @@ footer .contact {
   margin-top: 30px;
 }
 
+#images-concept .container p {
+  justify-content: center;
+  text-align: center;
+  font-family: Roboto;
+}
 #images-concept .container img {
+  margin-left: 25%;
   border-radius: 50px;
   overflow: hidden;
   -webkit-border-radius: 150px;
   -moz-border-radius: 150px;
-  width: 15em;
+  width: 17em;
   box-shadow: 0 -1px 5px 0 rgba(0, 0, 0, 0.2);
-  height: 15em;
+  height: 17em;
   padding: 5px;
+}
+#images-concept .pic img {
+  margin-left: 37%;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+#images-concept .pic p {
+  text-align: center;
+  justify-content: center;
+  margin-bottom: 30px;
 }
 
 #zenattitude h2 {
@@ -238,6 +254,9 @@ footer .contact {
   justify-content: center;
   margin-bottom: 30px;
   margin-top: 30px;
+}
+#zenattitude h3 {
+  text-align: center;
 }
 #zenattitude img {
   max-width: 400px;

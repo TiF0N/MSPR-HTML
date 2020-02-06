@@ -22,12 +22,14 @@
         <div class="container">
             <div class="grid-2">
                 <img src="public/images/coach.jpg" alt="Un coach professionnel.">
-                <p>Un coach professionel qui vous accompagne toute la durée de votre présence.</p>
                 <img src="public/images/maison.png" alt="Le lieu de travail">
+                <p>Un coach professionel qui vous accompagne toute la durée de votre présence.</p>
                 <p>Un lieu légendaire fibré dédié au travail.</p>
             </div>
-            <img src="public/images/paysage.png" alt="Un payasge de l'île de Versailles.">
-            <p>Des services associés à l'offre principal.</p>
+            <div class="pic">
+                <img src="public/images/paysage.png" alt="Un payasge de l'île de Versailles.">
+                <p>Des services associés à l'offre principal.</p>
+            </div>
         </div>
     </section>
     <section id="pre-footer">
@@ -38,9 +40,9 @@
                 détendre et accroitre leur productivité et ainsi développer leur magnifique (oui on est en sûr !)
                 projet. Enfin, l'objectfi est de acsser la routine de travail habtituel afin de sans cesse se renouveler
                 et son s'améliorer.</p>
-            <button class="btn-primary">
-                <a href="services.php">Découvrir nos services</a>
-            </button>
+            <div class="button-container">
+                <a class="btn btn-primary" href="services.php">Découvrir nos services</a>
+            </div>
         </div>
     </section>
 <?php include_once 'includes/footer.php'; ?>

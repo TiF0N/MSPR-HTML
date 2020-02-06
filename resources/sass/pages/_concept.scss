@@ -8,15 +8,33 @@
 }
 #images-concept {
     .container{
+      p{
+        justify-content: center;
+        text-align: center;
+        font-family: $font-family;
+      }
       img{
+        margin-left: 25%;
         border-radius: 50px;
         overflow: hidden;
         -webkit-border-radius:150px;
         -moz-border-radius:150px;
-        width:15em;
+        width:17em;
         box-shadow: $box-shadow;
-        height:15em;
+        height:17em;
         padding: 5px;
       }
     }
+  .pic{
+    img{
+      margin-left: 37%;
+      margin-top: 20px;
+      margin-bottom: 30px;
+    }
+    p{
+      text-align: center;
+      justify-content: center;
+      margin-bottom: 30px;
+    }
+  }
 }

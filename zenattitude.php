@@ -8,7 +8,7 @@
     <section id="zenattitude">
         <div class="container">
             <h2>Adoptez la ZenAttitude !</h2>
-            <h3>Découvrez les ZenEvents</h3>
+            <h3>🎈 Découvrez les ZenEvents 🎈</h3>
             <div class="grid-2">
                 <div>
                     <img src="public/images/bamboo.png" alt="Bambous montrant la pureté.">
@@ -38,7 +38,7 @@
                 sagittis mauris faucibus, at pellentesque neque sollicitudin.</p>
         </div>
     </section>
-    <section id="pro-footer">
+    <section id="pre-footer">
         <div class="container">
             <h2>Intéressé ?</h2>
             <p>Vous êtes intéresser par ZenOffice ? Alors n'hésitez pas à regarder nos superbes posts sur notre page
