@@ -22,7 +22,7 @@
         <div class="container">
             <div class="grid-2">
                 <img src="public/images/coach.jpg" alt="Un coach professionnel.">
-                <img src="public/images/maison.png" alt="Le lieu de travail">
+                <img src="public/images/maison.jpg" alt="Le lieu de travail">
                 <p>Un coach professionel qui vous accompagne toute la durée de votre présence.</p>
                 <p>Un lieu légendaire fibré dédié au travail.</p>
             </div>

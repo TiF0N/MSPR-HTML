@@ -11,7 +11,7 @@
             <h3>🎈 Découvrez les ZenEvents 🎈</h3>
             <div class="grid-2">
                 <div>
-                    <img src="public/images/bamboo.png" alt="Bambous montrant la pureté.">
+                    <img src="public/images/bamboo.jpg" alt="Bambous montrant la pureté.">
                     <p>Découverte de son Ikigaï</p>
                 </div>
                 <div>
