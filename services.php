@@ -8,7 +8,7 @@
     <section id="services" class="section">
         <div class="container">
             <h2><strong>Découvrez nos services</strong></h2>
-            <div class="grid-2">
+            <div class="grid-2" style="margin-bottom: 50px">
                 <div class="info">
                     <h2>Zone Zen (SPA)</h2>
                     <p>La Zone Zen proposé exclusivement pour les membre de ZenOffice permettra après de dures et difficiles
@@ -22,7 +22,7 @@
                     <img src="public/images/spa.jpg" >
             </div>
 
-            <div class="grid-2">
+            <div class="grid-2" style="margin-bottom: 50px">
                 <img src="public/images/restaurant.jpg" alt="Un restaurant japonais.">
                 <div class="info">
                     <h2>Restaurant Zenitude</h2>
@@ -35,7 +35,7 @@
                 </div>
             </div>
 
-            <div class="grid-2">
+            <div class="grid-2" style="margin-bottom: 50px">
                 <div class="info">
                     <h2>Espace de relaxation (massage, sophrologie, yoga)</h2>
                     <p>L'espace de relaxation est une spécificité de ZenOffice ! Diverses prestations

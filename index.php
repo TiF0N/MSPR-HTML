@@ -30,7 +30,7 @@
 <section id="services" class="section">
     <div class="container">
 
-        <div class="grid-2">
+        <div class="grid-2" style="margin-bottom: 50px">
             <div class="info">
                 <h2>Zone Zen (SPA)</h2>
                 <p>La Zone Zen proposé exclusivement pour les membre de ZenOffice permettra après de dures et difficiles
@@ -44,7 +44,7 @@
             <img src="public/images/paysage.png" alt="Un paysage de l'île de Versailles.">
         </div>
 
-        <div class="grid-2">
+        <div class="grid-2" style="margin-bottom: 50px">
             <img src="public/images/paysage.png" alt="Le batîment et le jardin de l'île de Versailles">
             <div class="info">
                 <h2>Restaurant Zenitude</h2>
@@ -57,7 +57,7 @@
             </div>
         </div>
 
-        <div class="grid-2">
+        <div class="grid-2" style="margin-bottom: 50px">
             <div class="info">
                 <h2>Espace de relaxation (massage, sophrologie, yoga)</h2>
                 <p>L'espace de relaxation est une spécificité de ZenOffice ! Diverses prestations
