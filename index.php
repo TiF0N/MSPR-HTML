@@ -8,7 +8,6 @@
 
 <section id="concept" class="section">
     <div class="container">
-
         <div class="intro">
             <h2>Notre concept</h2>
             <p>Vous avez besoin de calme, de déstresser à cause d'un projet qui vous prend tout votre temps et vous

@@ -19,15 +19,30 @@
         <a class="navbar-brand" href="index.html">
             <img class="logo" src="public/images/LOGO.png" alt="logo">
         </a>
-        <ul>
-            <li><a class="nav-links" href="./">Accueil</a></li>
-            <li><a class="nav-links" href="concept.php">Concept</a></li>
-            <li><a class="nav-links" href="services.php">Services</a></li>
-            <li><a class="nav-links" href="zenattitude.php">ZenAttitude</a></li>
-            <li><a class="nav-links" href="tarifs.php">Tarifs</a></li>
-            <li><a class="nav-links" href="contact.php">Contact</a></li>
-        </ul>
+        <button id="navbar-toggler" class="navbar-toggle">
+            <span></span>
+            <span></span>
+            <span></span>
+        </button>
+        <div id="navbar-collapse" class="navbar-collapse collapse">
+            <ul>
+                <li><a class="nav-links" href="./">Accueil</a></li>
+                <li><a class="nav-links" href="concept.php">Concept</a></li>
+                <li><a class="nav-links" href="services.php">Services</a></li>
+                <li><a class="nav-links" href="zenattitude.php">ZenAttitude</a></li>
+                <li><a class="nav-links" href="tarifs.php">Tarifs</a></li>
+                <li><a class="nav-links" href="contact.php">Contact</a></li>
+            </ul>
+        </div>
     </nav>
 </header>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+      $('#navbar-toggler').on('click', function(){
+            $('#navbar-collapse').toggleClass('show');
+      });
+    });
+</script>
 
 <main id="main">

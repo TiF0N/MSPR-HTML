@@ -1,18 +1,19 @@
 <?php include_once 'includes/header.php'; ?>
 
-    <section id="jumbotron">
+    <section id="jumbotron" style="background-image: url(public/images/ile-de-versaille.png);">
         <div class="jumbotron">
-            <h1><span class="highlight-word"> Politique de confidentialité</span></h1>
+            <h1><span class="highlight-word">Politique de confidentialité.</span></h1>
         </div>
     </section>
     <section id="confidentiality">
         <div class="container">
-            <h2>La confidentialoté de vos données</h2>
+                <h2>La confidentialité de vos données</h2>
             <p>Les informations recueillies sur ce formulaire sont enregistrées dans un fichier informatisé par
                 ZenOffice pour analyse. La base légale du
                 traitement est de trois mois.
 
-                Les données collectées seront communiquées aux seuls destinataires suivants : ZenOffice et ses prestataires.
+                Les données collectées seront communiquées aux seuls destinataires suivants : ZenOffice et ses
+                prestataires.
 
                 Les données sont conservées pendant trois mois par ZenOffice.
 
@@ -39,9 +40,9 @@
                 Facebook ou sur notre page Instagram ! Sinon envoyez donc nous un email via le bouton situé sous ce
                 texte comportant toutes les informations nécessaires à accomplir votre demande dans les plus brefs
                 délais (et oui nous sommes rapides !)</p>
-            <button class="btn btn-primary">
-                Nous contacter
-            </button>
+            <div class="button-container">
+                <a class="btn btn-primary" href="services.php">Nous contacter</a>
+            </div>
         </div>
     </section>
 <?php include_once 'includes/footer.php'; ?>

@@ -24,6 +24,7 @@ body {
           backdrop-filter: blur(5px);
 }
 #header .navbar {
+  padding: 0 15px;
   max-width: 1200px;
   margin: auto;
   display: flex;
@@ -33,30 +34,58 @@ body {
   flex-wrap: wrap;
 }
 #header .navbar .navbar-brand {
-  font-size: 1.5em;
+  display: inline-block;
+  padding-top: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  margin-right: 1rem;
+  font-size: 1.25rem;
+  line-height: inherit;
+  white-space: nowrap;
 }
 #header .navbar .navbar-brand .logo {
   width: 100%;
   max-width: 80px;
   height: auto;
 }
-#header .navbar:hover ul {
-  position: relative;
+#header .navbar .navbar-toggle {
+  border: none;
+  background: none;
+  width: 30px;
+  height: 50px;
+}
+#header .navbar .navbar-toggle span {
+  width: 100%;
+  display: block;
+  height: 2px;
+  background-color: #FFF;
+}
+#header .navbar .navbar-toggle span:not(:last-child) {
+  margin-bottom: 7px;
+}
+#header .navbar .navbar-collapse {
+  flex-basis: 100%;
+  flex-grow: 1;
+  align-items: center;
+}
+#header .navbar .navbar-collapse.collapse {
+  display: none;
+}
+#header .navbar .navbar-collapse.collapse.show {
   display: flex;
 }
-#header .navbar ul {
-  position: absolute;
-  display: none;
-  flex-wrap: wrap;
-  margin: 0;
-  padding: 15px;
+#header .navbar .navbar-collapse ul {
+  display: flex;
+  flex-direction: column;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
 }
-#header .navbar ul li {
+#header .navbar .navbar-collapse ul li {
   width: 100%;
   margin-bottom: 5px;
   list-style-type: none;
 }
-#header .navbar ul li a {
+#header .navbar .navbar-collapse ul li a {
   display: block;
   text-decoration: none;
   box-shadow: 0 -1px 5px 0 rgba(0, 0, 0, 0.2);
@@ -67,23 +96,7 @@ body {
   transition: 0.4s ease all;
   color: #bebd34;
 }
-#header .navbar ul li a:hover {
-  color: floralwhite;
-  transition: 0.4s ease all;
-}
 
-@media screen and (min-width: 1024px) {
-  #header .navbar ul {
-    display: flex;
-  }
-  #header .navbar ul li {
-    width: auto;
-    margin-bottom: 0;
-  }
-  #header .navbar ul li:not(:last-child) {
-    margin-right: 30px;
-  }
-}
 #footer {
   background-color: #000;
   color: #fff;
@@ -402,6 +415,13 @@ body {
 }
 #contact-form h2 {
   text-align: center;
+}
+
+#confidentiality h2 {
+  text-align: center;
+  justify-content: center;
+  margin-bottom: 30px;
+  margin-top: 30px;
 }
 
 .btn {
