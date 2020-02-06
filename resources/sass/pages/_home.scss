@@ -49,4 +49,66 @@
   }
 }
 
-#more-details {}
+#more-details {
+  .prices {
+    font-family: helvetica, sans-serif;
+    font-size: 1rem;
+    color: $secondary;
+    height: 100%;
+
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .card {
+    background-color: #3A3A3A;
+    color: $secondary;
+    box-shadow: $box-shadow;
+    border-top: 8px solid $primary;
+    border-radius: 20px;
+    padding: (8px*2) (8px*4) (8px*4) (8px*4);
+    margin: 8px*2;
+    width: 280px;
+    &:hover {
+      border-top: 8px solid $primary;
+      border-radius: 8px/2;
+      transform: translateY(-1em);
+      transition: $transition;
+    }
+  }
+
+  .card-title {
+    font-size: 2rem;
+    letter-spacing: 4px;
+    padding-bottom: 8px;
+  }
+
+  .card-body {
+    position: relative;
+    border-top: 2px solid $primary;
+    border-bottom: 2px solid $primary;
+    padding-bottom: 8px*2;
+  }
+
+  .price {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #7FC146;
+    padding-left: 10px*7;
+    margin: (8px*4) 0;
+  }
+
+  .price-symbol {
+    position: absolute;
+    left: -10px;
+    top: 42px;
+    font-size: 4rem;
+  }
+
+  .price-tag {
+    margin-bottom: 8px;
+  }
+}

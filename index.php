@@ -100,10 +100,27 @@
 <section id="more-details" class="section">
     <div class="container">
         <h2>Tarifs</h2>
+        <div class="prices">
+            <div id="card" class="card">
+                <h1 class="card-title">BASIC</h1>
+                <div class="card-body">
+                    <p class="price"><span class="price-symbol">39</span>€</p>
+                    <p class="price-tag">/JOUR TTC</p>
+                </div>
+            </div>
+
+            <div id="advanced" class="card">
+                <h1 class="card-title">PRO</h1>
+                <div class="card-body">
+                    <p class="price"><span class="price-symbol">239</span>€</p>
+                    <p class="price-tag">/MOIS TTC</p>
+                </div>
+            </div>
+        </div>
+    </div>
         <div class="button-container">
             <a class="btn btn-primary" href="tarifs.php">Obtenir plus de détails</a>
         </div>
-    </div>
 </section>
 
 <?php include_once 'includes/footer.php'; ?>
