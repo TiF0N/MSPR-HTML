@@ -98,7 +98,7 @@ body {
 }
 
 #footer {
-  background-color: #000;
+  background-color: #2a2928;
   color: #fff;
   padding: 50px 0;
 }
@@ -146,6 +146,7 @@ body {
 }
 #footer .footer-social ul li a:hover {
   background-color: #bebd34;
+  transition: 0.4s ease all;
   color: #fff;
 }
 #footer .footer-social .copyright {
@@ -286,7 +287,6 @@ body {
   text-align: center;
 }
 #zenattitude img {
-  max-width: 400px;
   border-radius: 500px;
   overflow: hidden;
   -webkit-border-radius: 150px;
@@ -296,6 +296,7 @@ body {
   height: 15em;
   padding: 5px;
   margin-left: 25%;
+  flex-wrap: wrap;
 }
 #zenattitude p {
   margin-top: 20px;

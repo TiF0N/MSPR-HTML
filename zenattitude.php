@@ -31,11 +31,10 @@
                 </div>
             </div>
 
-            <p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer feugiat faucibus est, eu
-                ullamcorper magna faucibus nec. Sed ac lorem ut augue consequat molestie non vel massa. Quisque ornare
-                fermentum enim. Aliquam sit amet eros tempor, volutpat quam ut, condimentum diam. Ut congue eros quis mi
-                mattis aliquam. Morbi vestibulum tortor accumsan, aliquet nunc a, porttitor nisl. Maecenas viverra purus
-                sagittis mauris faucibus, at pellentesque neque sollicitudin.</p>
+            <p>Tous ces évenements organisés par ZenOffice ont pour objectifs d'élargir la culture d'entreprise grâce à
+                l'influence de la culture niponne. Ainsi, la prospérité et le développement de votre entreprise ne
+                pourra être qu'accru grâce à nos méthodes révolutionnaires basées sur le Zen, tel que les ZenEvents le
+                proposent grâce à des séances de sophrologie</p>
         </div>
     </section>
     <section id="pre-footer">

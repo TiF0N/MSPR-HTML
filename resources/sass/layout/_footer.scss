@@ -1,5 +1,5 @@
 #footer {
-  background-color: #000;
+  background-color: #2a2928;
   color: #fff;
   padding: 50px 0;
 
@@ -53,6 +53,7 @@
 
           &:hover {
             background-color: $secondary;
+            transition: $transition;
             color: #fff;
           }
         }
