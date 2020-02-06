@@ -19,7 +19,7 @@
                 quotidien et développer le chiffre d'affaire de votre entreprise. Pour satisfaire votre besoin de
                 croissance le palais japonais disponible sur l'île de Nantes en plein coeur de la ville est bien
                 évidemment raccordé à la fibre optique.</p>
-            <img src="public/images/nature.png">
+            <img src="public/images/nature.jpg">
         </div>
         <div class="button-container">
             <a class="btn btn-primary" href="concept.php">Découvrir notre concept</a>
@@ -41,11 +41,11 @@
                     ZenOffice
                     favorise donc toute possible réussite !</p>
             </div>
-            <img src="public/images/paysage.png" alt="Un paysage de l'île de Versailles.">
+            <img src="public/images/paysage.jpg" alt="Un paysage de l'île de Versailles.">
         </div>
 
         <div class="grid-2" style="margin-bottom: 50px">
-            <img src="public/images/paysage.png" alt="Le batîment et le jardin de l'île de Versailles">
+            <img src="public/images/paysage.jpg" alt="Le batîment et le jardin de l'île de Versailles">
             <div class="info">
                 <h2>Restaurant Zenitude</h2>
                 <p>Des repas sains, équilibrés et délicieux . C'est ce que propose le
@@ -68,7 +68,7 @@
                     certains évènements, ces activités s'enrichissent de l'environnement
                     japonais...</p>
             </div>
-            <img src="public/images/decoration.png" alt="Un élément de décoration japonais.">
+            <img src="public/images/decoration.jpg" alt="Un élément de décoration japonais.">
         </div>
 
         <div class="button-container">
@@ -87,9 +87,9 @@
             techniques sophistiqué et donc innovatrices afin de ne pas se laisser noyer par le monde actuel et plus
             spécialement par le monde de demain !</p>
         <div class="grid-3 has-gutter-xl">
-            <img src="public/images/palais_jardin.png" alt="Le palais japonais et son jardin sur l'île de Versailles">
-            <img src="public/images/pont.png" alt="Un pont de l'île Versailles">
-            <img src="public/images/cascade.png" alt="Une cascade d'eau de l'île de Versailles">
+            <img src="public/images/palais_jardin.jpg" alt="Le palais japonais et son jardin sur l'île de Versailles">
+            <img src="public/images/pont.jpg" alt="Un pont de l'île Versailles">
+            <img src="public/images/cascade.jpg" alt="Une cascade d'eau de l'île de Versailles">
         </div>
         <div class="button-container">
             <a class="btn btn-primary" href="zenattitude.php">Les ZenEvents</a>

@@ -27,7 +27,7 @@
                 <p>Un lieu légendaire fibré dédié au travail.</p>
             </div>
             <div class="pic">
-                <img src="public/images/paysage.png" alt="Un payasge de l'île de Versailles.">
+                <img src="public/images/paysage.jpg" alt="Un payasge de l'île de Versailles.">
                 <p>Des services associés à l'offre principal.</p>
             </div>
         </div>

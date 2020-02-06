@@ -22,11 +22,11 @@
 
             <div class="grid-2">
                 <div>
-                    <img src="public/images/palais_jardin.png" alt="Un bâtiment de l'île de Versailles">
+                    <img src="public/images/palais_jardin.jpg" alt="Un bâtiment de l'île de Versailles">
                     <p>Séparer vie personnelle et et vie professionnelle</p>
                 </div>
                 <div>
-                    <img src="public/images/jardin.png" alt="Un jardin de l'île de Versailles">
+                    <img src="public/images/jardin.jpg" alt="Un jardin de l'île de Versailles">
                     <p>Apprendre tout en innovant</p>
                 </div>
             </div>
