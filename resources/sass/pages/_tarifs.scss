@@ -9,7 +9,7 @@
 
   ol {
     list-style: none;
-    margin-left: -8px*5;
+    margin-left: -40px;
   }
 
   li {
@@ -29,9 +29,8 @@
   color: $secondary;
   height: 100%;
 
-  display: -webkit-flex;
+
   display: flex;
-  -webkit-flex-direction: row;
   flex-direction: row;
   justify-content: center;
 }

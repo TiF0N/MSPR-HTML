@@ -35,15 +35,14 @@
                     <style>
                         /* Set the size of the div element that contains the map */
                         #map {
-                            height: 280px;  /* The height is 400 pixels */
-                            width: 100%;  /* The width is the width of the web page */
+                            height: 280px;
+                            width: 100%;
                             align-content: center;
                         }
                     </style>
 
                     <body>
 
-                    <!--The div element for the map -->
                     <div id="map"></div>
                     <script>
 

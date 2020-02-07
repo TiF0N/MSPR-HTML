@@ -56,9 +56,8 @@
     color: $secondary;
     height: 100%;
 
-    display: -webkit-flex;
+
     display: flex;
-    -webkit-flex-direction: row;
     flex-direction: row;
     justify-content: center;
   }
