@@ -32,6 +32,36 @@
             <div class="col">
                 <div class="footer-find">
                     <h6>Nous trouver</h6>
+                    <style>
+                        /* Set the size of the div element that contains the map */
+                        #map {
+                            height: 280px;  /* The height is 400 pixels */
+                            width: 100%;  /* The width is the width of the web page */
+                            align-content: center;
+                        }
+                    </style>
+
+                    <body>
+
+                    <!--The div element for the map -->
+                    <div id="map"></div>
+                    <script>
+
+                        function initMap() {
+
+                            var Nantes = {lat: 47.2263792, lng: -1.556537};
+
+                            var map = new google.maps.Map(
+                                document.getElementById('map'), {zoom: 14, center: Nantes});
+
+                            var marker = new google.maps.Marker({position: Nantes, map: map});
+                        }
+                    </script>
+
+                    <script async defer
+                            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCyjqStVo2J_5xPmPu4WqM4AWIuOzBnz1s&callback=initMap">
+                    </script>
+                    </body>
                 </div>
             </div>
         </div>
@@ -46,9 +76,12 @@
             </div>
         </div>
     </div>
+
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"
+            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+            crossorigin="anonymous"></script>
+
+    <div class="container"
+
 </footer>
-<script src="https://code.jquery.com/jquery-3.4.1.min.js"
-        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
-        crossorigin="anonymous"></script>
-</body>
-</html>
+

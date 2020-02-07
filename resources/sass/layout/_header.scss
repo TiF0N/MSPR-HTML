@@ -92,3 +92,18 @@
     }
   }
 }
+
+@media screen {
+  .navbar-toggle {
+    display: none;
+  }
+  .navbar-collapse ul{
+    display: flex;
+  }
+  .navbar-collapse li{
+    display: flex;
+  }
+  .navbar-collapse a{
+    display: flex;
+  }
+}

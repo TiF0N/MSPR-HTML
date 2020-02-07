@@ -97,6 +97,23 @@ body {
   color: #bebd34;
 }
 
+@media screen {
+  .navbar-toggle {
+    display: none;
+  }
+
+  .navbar-collapse ul {
+    display: flex;
+  }
+
+  .navbar-collapse li {
+    display: flex;
+  }
+
+  .navbar-collapse a {
+    display: flex;
+  }
+}
 #footer {
   background-color: #2a2928;
   color: #fff;
@@ -121,18 +138,19 @@ body {
   color: #bebd34;
   text-decoration: none;
 }
-#footer .footer-social {
+
+.footer-social {
   margin-top: 50px;
   border-top: 2px solid #fff;
   padding-top: 50px;
 }
-#footer .footer-social ul {
+.footer-social ul {
   display: flex;
   justify-content: center;
   align-items: center;
   align-content: center;
 }
-#footer .footer-social ul li a {
+.footer-social ul li a {
   margin: 0 20px;
   display: flex;
   justify-content: center;
@@ -144,16 +162,16 @@ body {
   width: 40px;
   height: 40px;
 }
-#footer .footer-social ul li a:hover {
+.footer-social ul li a:hover {
   background-color: #bebd34;
   transition: 0.4s ease all;
   color: #fff;
 }
-#footer .footer-social .copyright {
+.footer-social .copyright {
   padding-top: 50px;
   text-align: center;
 }
-#footer .footer-social .copyright a {
+.footer-social .copyright a {
   color: #bebd34;
 }
 
