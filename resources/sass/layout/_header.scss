@@ -80,7 +80,7 @@
             display: block;
             text-decoration: none;
             box-shadow: $box-shadow;
-            padding: 10px 30px;
+            padding: 10px 150px;
             background-color: $primary;
             border-radius: 25px;
             border: 2px solid $primary;
@@ -136,6 +136,7 @@
 
             a {
               text-align: center;
+              padding: 10px 30px;
 
             }
           }
